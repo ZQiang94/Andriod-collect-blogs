@@ -4,3 +4,4 @@
 ##### 3. [阿里技术团队博客](http://csrd.aliapp.com/)
 ##### 4. [Trinea](http://www.trinea.cn/)
 ##### 5. [最新host](https://raw.githubusercontent.com/racaljk/hosts/master/hosts)
+##### 6. [Android Weekly中文版](http://wiki.jikexueyuan.com/project/android-weekly)
