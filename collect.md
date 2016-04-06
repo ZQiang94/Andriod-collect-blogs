@@ -20,3 +20,4 @@
 ##### 19. [公共技术点之 Java 反射 Reflection](http://p.codekk.com/blogs/detail/5596953ed6459ae7934997c5)
 ##### 20. [天猫技术团队blog（苹果核）](http://pingguohe.net/)
 ##### 21. [RxJava常见的使用场景总结](https://github.com/THEONE10211024/RxJavaSamples)
+##### 22. [从零开始的Android新项目4 - Dagger2篇](http://blog.zhaiyifan.cn/2016/03/27/android-new-project-from-0-p4/)
