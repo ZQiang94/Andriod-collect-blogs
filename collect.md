@@ -22,3 +22,4 @@
 ##### 21. [RxJava常见的使用场景总结](https://github.com/THEONE10211024/RxJavaSamples)
 ##### 22. [从零开始的Android新项目4 - Dagger2篇](http://blog.zhaiyifan.cn/2016/03/27/android-new-project-from-0-p4/)
 ##### 23. [markzhai's home](http://blog.zhaiyifan.cn/)
+##### 24. [各大热补丁方案分析和比较](http://blog.zhaiyifan.cn/2015/11/20/HotPatchCompare/)
