@@ -16,3 +16,7 @@
 ##### 15. [查找算法之顺序、二分、二叉搜索树、红黑树 详细比较总结](http://threezj.com/2016/03/20/%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95%E4%B9%8B%E9%A1%BA%E5%BA%8F%E3%80%81%E4%BA%8C%E5%88%86%E3%80%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E3%80%81%E7%BA%A2%E9%BB%91%E6%A0%91/)
 ##### 16. [ Android 进程常驻（0）----MarsDaemon使用说明](http://blog.csdn.net/marswin89/article/details/50917098)
 ##### 17. [OkHttp使用教程](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0106/2275.html)
+##### 18. [一种为 Apk 动态写入信息的方案 ](http://mp.weixin.qq.com/s?__biz=MzAxNjI3MDkzOQ==&mid=405919721&idx=1&sn=fdad21c0bc74d90e66443d488e8cdc8f#rd)
+##### 19. [公共技术点之 Java 反射 Reflection](http://p.codekk.com/blogs/detail/5596953ed6459ae7934997c5)
+##### 20. [天猫技术团队blog（苹果核）](http://pingguohe.net/)
+##### 21. [RxJava常见的使用场景总结](https://github.com/THEONE10211024/RxJavaSamples)
