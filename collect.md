@@ -25,3 +25,4 @@
 ##### 24. [各大热补丁方案分析和比较](http://blog.zhaiyifan.cn/2015/11/20/HotPatchCompare/)
 ##### 25. [App架构经验总结](http://keeganlee.me/post/architecture/20160303)
 ##### 26. [让 BAT 的 Offer 不再难拿](http://www.jianshu.com/p/ee15c1cf9c16#)
+##### 27. [Tim9Liu9整理的Android资料集合](https://github.com/Tim9Liu9/TimLiu-Android)
