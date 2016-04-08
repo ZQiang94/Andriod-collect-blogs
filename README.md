@@ -31,4 +31,4 @@
 ##### 29. [Android App的设计架构：MVC,MVP,MVVM与架构经验谈](http://www.tianmaying.com/tutorial/AndroidMVC)
 ##### 30. [ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/)
 ##### 31. [使用 RxJava 封装现有的库](https://github.com/xitu/gold-miner/blob/master/TODO/wrapping-existing-libraries-with-rxjava.md)
-
+##### 32. [Android防止过快点击造成多次事件](http://blog.csdn.net/mrzhang_happy/article/details/51087765)
