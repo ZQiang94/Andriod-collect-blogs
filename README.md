@@ -32,3 +32,4 @@
 ##### 30. [ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/)
 ##### 31. [使用 RxJava 封装现有的库](https://github.com/xitu/gold-miner/blob/master/TODO/wrapping-existing-libraries-with-rxjava.md)
 ##### 32. [Android防止过快点击造成多次事件](http://blog.csdn.net/mrzhang_happy/article/details/51087765)
+##### 33. [Android 透明状态栏实现方案](http://blog.csdn.net/fanxin_92/article/details/51086144)
