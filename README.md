@@ -29,4 +29,5 @@
 ##### 27. [Tim9Liu9整理的Android资料集合](https://github.com/Tim9Liu9/TimLiu-Android)
 ##### 28. [Retrofit分析-漂亮的解耦套路](http://www.jianshu.com/p/45cb536be2f4)
 ##### 29. [Android App的设计架构：MVC,MVP,MVVM与架构经验谈](http://www.tianmaying.com/tutorial/AndroidMVC)
+##### 30. [ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/)
 
