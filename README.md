@@ -35,3 +35,4 @@
 ##### 33. [Android 透明状态栏实现方案](http://blog.csdn.net/fanxin_92/article/details/51086144)
 ##### 34. [Android开发时你遇到过什么相见恨晚的工具或网站？](https://www.zhihu.com/question/27140400)
 ##### 35. [Android Studio 2.0 稳定版 新特性简介（中文）](http://chinagdg.org/2016/04/android-studio-2-0/)
+##### 36. [Android 透明状态栏实现方案](http://blog.csdn.net/fanxin_92/article/details/51086144)
