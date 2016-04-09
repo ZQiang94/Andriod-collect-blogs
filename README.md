@@ -37,3 +37,6 @@
 ##### 35. [Android Studio 2.0 稳定版 新特性简介（中文）](http://chinagdg.org/2016/04/android-studio-2-0/)
 ##### 36. [Android 透明状态栏实现方案](http://blog.csdn.net/fanxin_92/article/details/51086144)
 ##### 37. [创建GitHub技术博客全攻略](http://blog.csdn.net/renfufei/article/details/37725057/)
+##### 38. [App架构设计经验谈:接口的设计 ](http://keeganlee.me/post/architecture/20160107)
+##### 39. [探索安卓中有意义的动画！](https://segmentfault.com/a/1190000004182537)
+##### 40. [好RESTful API的设计原则](http://www.cnblogs.com/moonz-wu/p/4211626.html)
