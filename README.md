@@ -40,3 +40,4 @@
 ##### 38. [App架构设计经验谈:接口的设计 ](http://keeganlee.me/post/architecture/20160107)
 ##### 39. [探索安卓中有意义的动画！](https://segmentfault.com/a/1190000004182537)
 ##### 40. [好RESTful API的设计原则](http://www.cnblogs.com/moonz-wu/p/4211626.html)
+##### 41. [一个支持 url 打开 activity 的开源库](https://github.com/mzule/ActivityRouter)
