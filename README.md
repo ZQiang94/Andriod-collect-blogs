@@ -44,3 +44,4 @@
 ##### 42. [第一个Android TV Launcher开源项目](http://blog.csdn.net/rain_butterfly/article/details/44942747)
 ##### 43. [浅谈Java回调机制](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=403109183&idx=1&sn=2909a7702c12c4ada2c908263626b642#rd)
 ##### 44. [LoganSquare快到爆炸的json解析](http://p.codekk.com/detail/Android/bluelinelabs/LoganSquare)
+##### 45. [Android开发10个常用工具类](http://www.devstore.cn/essay/essayInfo/5862.html)
