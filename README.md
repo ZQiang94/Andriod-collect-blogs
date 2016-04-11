@@ -46,3 +46,4 @@
 ##### 44. [LoganSquare快到爆炸的json解析](http://p.codekk.com/detail/Android/bluelinelabs/LoganSquare)
 ##### 45. [Android开发10个常用工具类](http://www.devstore.cn/essay/essayInfo/5862.html)
 ##### 46. [强化版mvc设计模式](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=403123455&idx=1&sn=9d414a52f2399768e61d03b3aefc3cb6#rd)
+##### 47. [RxJava系列（深入浅出RxJava）](http://blog.csdn.net/lzyzsd/article/details/41833541)
