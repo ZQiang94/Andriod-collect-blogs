@@ -49,3 +49,5 @@
 ##### 47. [RxJava系列（深入浅出RxJava）](http://blog.csdn.net/lzyzsd/article/details/41833541)
 ##### 48. [配置你的 Android Studio](http://gold.xitu.io/entry/570b79f071cfe4005fa5cda5)
 ##### 49. [如何搭建一个独立博客——简明Github Pages与Hexo教程](http://www.jianshu.com/p/05289a4bc8b2)
+##### 50. [Android开发中，那些让你相见恨晚的方法、类或接口](http://liukun.engineer/2016/04/11/Android%E5%BC%80%E5%8F%91%E4%B8%AD%EF%BC%8C%E9%82%A3%E4%BA%9B%E8%AE%A9%E4%BD%A0%E7%9B%B8%E8%A7%81%E6%81%A8%E6%99%9A%E7%9A%84%E6%96%B9%E6%B3%95%E3%80%81%E7%B1%BB%E6%88%96%E6%8E%A5%E5%8F%A3/)
+##### 51. [详解https是如何确保安全的](https://www.sdk.cn/news/2921)
