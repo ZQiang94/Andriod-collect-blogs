@@ -55,4 +55,4 @@
 ##### 53. [2016新浪微博Android面试题](http://yuweiguocn.github.io/2016/04/13/interview-2016-sina-weibo/)
 ##### 54. [那些年你用过的 Android 开源项目都有什么?](http://diycode.cc/topics/8)
 ##### 55. [菜单Android 多渠道打包原理和使用](http://news.oneapm.com/android-da-bao/)
-##### 56. [http://www.jianshu.com/p/abced47815d9](http://www.jianshu.com/p/abced47815d9)
+##### 56. [RxJava 第一篇 - Single使用及示例](http://www.jianshu.com/p/abced47815d9)
