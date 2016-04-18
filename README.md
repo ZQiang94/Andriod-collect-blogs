@@ -59,3 +59,4 @@
 ##### 57. [Service知识总结](http://mouxuejie.com/blog/2016-04-16/service-intentservice-analysis/)
 ##### 58. [ndroid之粘性广播理解](http://blog.csdn.net/way_ping_li/article/details/8016688)
 ##### 59. [ReactiveX文档中文翻译](http://uprogrammer.cn/rxjava_cn/)
+##### 60. [公共技术点之 Java 注解 Annotation](http://p.codekk.com/blogs/detail/54cfab086c4761e5001b253b)
