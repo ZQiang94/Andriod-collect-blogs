@@ -60,3 +60,4 @@
 ##### 58. [ndroid之粘性广播理解](http://blog.csdn.net/way_ping_li/article/details/8016688)
 ##### 59. [ReactiveX文档中文翻译](http://uprogrammer.cn/rxjava_cn/)
 ##### 60. [公共技术点之 Java 注解 Annotation](http://p.codekk.com/blogs/detail/54cfab086c4761e5001b253b)
+##### 61. [反射、注解与依赖注入总结](http://www.jianshu.com/p/24820bf3df5c)
