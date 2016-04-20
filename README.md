@@ -88,3 +88,4 @@
 ##### 87. [Android应用架构演变](http://www.jianshu.com/p/8ca27934c6e6)
 ##### 88. [加速你的Android应用](http://www.devtf.cn/?p=1097)
 ##### 89. [聊一聊Android 6.0的运行时权限](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/)
+##### 90. [超详细Android接入支付宝支付实现，有图有真相](http://www.jianshu.com/p/2aa2e8748476)
