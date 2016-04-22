@@ -89,3 +89,7 @@
 ##### 88. [加速你的Android应用](http://www.devtf.cn/?p=1097)
 ##### 89. [聊一聊Android 6.0的运行时权限](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/)
 ##### 90. [超详细Android接入支付宝支付实现，有图有真相](http://www.jianshu.com/p/2aa2e8748476)
+##### 91. [知道这20个正则表达式，能让你少写1000行代码](http://www.jianshu.com/p/e7bb97218946)
+##### 92. [Android主题换肤 无缝切换](http://www.jianshu.com/p/af7c0585dd5b)
+##### 93. [Android分包原理](http://souly.cn/%E6%8A%80%E6%9C%AF%E5%8D%9A%E6%96%87/2016/02/25/android%E5%88%86%E5%8C%85%E5%8E%9F%E7%90%86/)
+##### 94. [Android 单元测试: 首先，从是什么开始](https://segmentfault.com/a/1190000004930175)
