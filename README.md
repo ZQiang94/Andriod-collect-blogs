@@ -94,3 +94,4 @@
 ##### 93. [Android分包原理](http://souly.cn/%E6%8A%80%E6%9C%AF%E5%8D%9A%E6%96%87/2016/02/25/android%E5%88%86%E5%8C%85%E5%8E%9F%E7%90%86/)
 ##### 94. [Android 单元测试: 首先，从是什么开始](https://segmentfault.com/a/1190000004930175)
 ##### 95. [非常全面的Linux知识点总结](http://www.codeceo.com/article/linux-tips.html)
+##### 96. [Android快速实现微信支付](http://www.jianshu.com/p/c97639279d2e)
