@@ -95,3 +95,8 @@
 ##### 94. [Android 单元测试: 首先，从是什么开始](https://segmentfault.com/a/1190000004930175)
 ##### 95. [非常全面的Linux知识点总结](http://www.codeceo.com/article/linux-tips.html)
 ##### 96. [Android快速实现微信支付](http://www.jianshu.com/p/c97639279d2e)
+##### 97. [ Android Notification常见样式总结](http://blog.csdn.net/w804518214/article/details/51231946)
+##### 98. [HTTPS 理论详解与实践](https://segmentfault.com/a/1190000004985253)
+##### 99. [Android内存分析命令](http://gityuan.com/2016/01/02/memory-analysis-command/)
+##### 100. [带你学开源项目：Meizhi Android之RxJava & Retrofit最佳实践](https://wingjay.com/2016/04/13/%E5%B8%A6%E4%BD%A0%E5%AD%A6%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%9AMeizhi-Android%E4%B9%8BRxJava-Retrofit%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/)
+##### 101. [关于RecyclerView你必须知道的](http://blog.csdn.net/mynameishuangshuai/article/details/51153978)
