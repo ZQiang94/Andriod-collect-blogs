@@ -100,3 +100,8 @@
 ##### 99. [Android内存分析命令](http://gityuan.com/2016/01/02/memory-analysis-command/)
 ##### 100. [带你学开源项目：Meizhi Android之RxJava & Retrofit最佳实践](https://wingjay.com/2016/04/13/%E5%B8%A6%E4%BD%A0%E5%AD%A6%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%9AMeizhi-Android%E4%B9%8BRxJava-Retrofit%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/)
 ##### 101. [关于RecyclerView你必须知道的](http://blog.csdn.net/mynameishuangshuai/article/details/51153978)
+##### 102. [关于Android分享的目录 - 送给读者的一份礼物](http://www.jianshu.com/p/780658b79227)
+##### 103. [Android开源之BaseRecyclerViewAdapterHelper(持续更新！)](http://www.jianshu.com/p/e730462138bd)
+##### 104. [解读Android官方MVP项目单元测试](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0425/4178.html)
+##### 105. [10个你可能不知道的 Android Studio技巧](http://www.jcodecraeer.com/a/anzhuokaifa/Android_Studio/2016/0424/4172.html)
+##### 106. [选择恐惧症的福音！教你认清MVC，MVP和MVVM](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0414/4143.html)
