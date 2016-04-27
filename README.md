@@ -105,3 +105,5 @@
 ##### 104. [解读Android官方MVP项目单元测试](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0425/4178.html)
 ##### 105. [10个你可能不知道的 Android Studio技巧](http://www.jcodecraeer.com/a/anzhuokaifa/Android_Studio/2016/0424/4172.html)
 ##### 106. [选择恐惧症的福音！教你认清MVC，MVP和MVVM](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0414/4143.html)
+##### 107. [如何自学Android](http://gityuan.com/2016/04/24/how-to-study-android/)
+##### 108. [Android 开发值得订阅的日报和周刊](http://tikitoo.me/2016/04/26/android-worth-subscribe-daily-weekly/)
