@@ -110,3 +110,6 @@
 ##### 109. [Android Dev](http://www.jianshu.com/collection/6e31b7354a48)
 ##### 110. [从案例学RxAndroid开发 （上、下)](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=504089555&idx=3&sn=094a2c4f7072fb9e113b12541001f622#rd)
 ##### 111. [Android Material Design 兼容库的使用详解](http://www.jianshu.com/p/1e6eed09d48b)
+##### 112. [带你使用SwipeBackLayout和SwipeBackActivity](http://www.jianshu.com/p/92b884d8471c)
+##### 113. [Android去除烦人的默认闪退Dialog](http://sixwolf.net/blog/2016/04/11/Android%E5%8E%BB%E9%99%A4%E7%83%A6%E4%BA%BA%E7%9A%84%E9%97%AA%E9%80%80%E5%BC%B9%E7%AA%97/)
+##### 114. [GitHub Top 100的Android开源库](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402675429&idx=1&sn=ba3afd2069004b220eaa8a77fdecbaf7#rd)
