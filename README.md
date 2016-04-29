@@ -115,4 +115,4 @@
 ##### 114. [GitHub Top 100的Android开源库](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402675429&idx=1&sn=ba3afd2069004b220eaa8a77fdecbaf7#rd)
 ##### 115. [关于Android分享的目录 - 送给读者的一份礼物](http://www.jianshu.com/p/780658b79227)
 ##### 116. [JAVA decompiler collections](http://www.figotan.org/2015/11/24/java-decompiler-collections/)
-##### 117. []()
+##### 117. [我是如何学习Linux的](https://www.sdk.cn/news/3230)
