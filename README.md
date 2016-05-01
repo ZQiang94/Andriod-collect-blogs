@@ -118,3 +118,4 @@
 ##### 117. [我是如何学习Linux的](https://www.sdk.cn/news/3230)
 ##### 118. [微信Android客户端后台保活经验分享](http://www.infoq.com/cn/articles/wechat-android-background-keep-alive)
 ##### 119. [了解 Android API 中的 SharedPreferences]（http://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=2652261666&idx=1&sn=9cc50beed8c8ef601c11755f4740e456&scene=0#wechat_redirect）
+##### 120. [Android 中的 Enum 到底占多少内存？该如何用？]（http://www.jianshu.com/p/6052cd4ea9ae）
