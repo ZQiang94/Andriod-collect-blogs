@@ -120,3 +120,4 @@
 ##### 119. [了解 Android API 中的 SharedPreferences](http://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=2652261666&idx=1&sn=9cc50beed8c8ef601c11755f4740e456&scene=0#wechat_redirect%EF%BC%89)
 ##### 120. [Android 中的 Enum 到底占多少内存？该如何用？](http://www.jianshu.com/p/6052cd4ea9ae)
 ##### 121. [国外著名 Android 开发者及公司信息](http://p.codekk.com/blogs/detail/5513fd53d6459ae7934992d6)
+##### 122. [infoQ——java系列blog（成富）](http://www.infoq.com/cn/author/%E6%88%90%E5%AF%8C#文章)
