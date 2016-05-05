@@ -124,3 +124,4 @@
 ##### 121. [国外著名 Android 开发者及公司信息](http://p.codekk.com/blogs/detail/5513fd53d6459ae7934992d6)
 ##### 122. [infoQ——java系列blog（成富）](http://www.infoq.com/cn/author/%E6%88%90%E5%AF%8C#文章)
 ##### 123. [Retrofit2 完全解析 探索与okhttp之间的关系](http://blog.csdn.net/lmj623565791/article/details/51304204)
+##### 124. [使用 Gradle 和 Sonatype Nexus 搭建自己的 Maven 仓库](http://www.open-open.com/lib/view/open1434522817864.html)
