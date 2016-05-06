@@ -137,3 +137,6 @@
 ##### 134. [PaoloRotolo/AppIntro - Android 首次启动翻页库](https://github.com/PaoloRotolo/AppIntro)
 ##### 135. [Android自动化构建：Jenkins＋Gradle](http://www.jianshu.com/p/5ece11c3301e)
 ##### 136. [干了四五年Android 开发了，如何突破成长中的技术瓶颈期？(讨论帖)](http://diycode.cc/topics/72)
+##### 137. []()
+##### 137. []()
+##### 137. []()##### 137. []()
