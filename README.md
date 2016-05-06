@@ -132,3 +132,8 @@
 ##### 129. [Android插件化开发](http://www.androidblog.cn/index.php/Index/detail/id/16#)
 ##### 130. [Android中常见的内存泄漏](http://www.jianshu.com/p/130d3b22a386)
 ##### 131. [理解Android编译命令](https://www.sdk.cn/news/3313)
+##### 132. [fir.im weekly - 「 持续集成」实践教程合集](http://blog.fir.im/fir_im_weekly160505/?hmsr=gold.xitu.io/&utm_medium=gold.xitu.io&utm_source=gold.xitu.io)
+##### 133. [TextView实战之你真的懂我么？](http://blog.csdn.net/sdkfjksf/article/details/51317204)
+##### 134. [PaoloRotolo/AppIntro - Android 首次启动翻页库](https://github.com/PaoloRotolo/AppIntro)
+##### 135. [Android自动化构建：Jenkins＋Gradle](http://www.jianshu.com/p/5ece11c3301e)
+##### 136. [干了四五年Android 开发了，如何突破成长中的技术瓶颈期？(讨论帖)](http://diycode.cc/topics/72)
