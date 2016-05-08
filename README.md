@@ -145,3 +145,4 @@
 ##### 142. [使用GCM网络管理工具优化电池使用](https://github.com/xitu/gold-miner/blob/master/TODO/optimize-battery-life-with-androids-gcm-network-manager.md)
 ##### 143. [掘金翻译计划](https://github.com/xitu/gold-miner)
 ##### 144. [Android端实现cookie机制]（http://www.jianshu.com/p/b7d333f93c73）
+##### 145. [google官方架构MVP解析与实战-（从零开始搭建android框架系列（3））](http://www.jianshu.com/p/569ab68da482)
