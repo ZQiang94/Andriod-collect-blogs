@@ -146,3 +146,5 @@
 ##### 143. [掘金翻译计划](https://github.com/xitu/gold-miner)
 ##### 144. [Android端实现cookie机制]（http://www.jianshu.com/p/b7d333f93c73）
 ##### 145. [google官方架构MVP解析与实战-（从零开始搭建android框架系列（3））](http://www.jianshu.com/p/569ab68da482)
+##### 146. [Android 热修复，没你想的那么难](http://kymjs.com/code/2016/05/08/01)
+##### 147. [比系统自带的更好用的SnackBar](http://www.jianshu.com/p/e3c82b98f151)
