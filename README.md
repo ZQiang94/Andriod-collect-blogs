@@ -159,7 +159,7 @@
 ##### 156. [Attr、Style和Theme详解](http://www.jianshu.com/p/dd79220b47dd)
 ##### 157. [你真的会用Android中Strings资源吗](http://www.jianshu.com/p/bf8c4b4c8049)
 ##### 158. [从Instant-Run出发，谈谈Android上的热修复](http://zjutkz.net/2016/05/10/%E4%BB%8EInstant-Run%E5%87%BA%E5%8F%91%EF%BC%8C%E8%B0%88%E8%B0%88Android%E4%B8%8A%E7%9A%84%E7%83%AD%E4%BF%AE%E5%A4%8D/)
-##### 158. [Android Studio导入github项目详解](http://blog.csdn.net/lyhhj/article/details/48789705)
+##### 159. [Android Studio导入github项目详解](http://blog.csdn.net/lyhhj/article/details/48789705)
 ##### 160. [防止连续点击打开两个重复页面的小技巧](http://mafei.me/2016/04/12/Android-%E9%98%B2%E6%AD%A2%E8%BF%9E%E7%BB%AD%E7%82%B9%E5%87%BB%E6%89%93%E5%BC%80%E4%B8%A4%E4%B8%AA%E9%87%8D%E5%A4%8D%E9%A1%B5%E9%9D%A2%E7%9A%84%E5%B0%8F%E6%8A%80%E5%B7%A7/)
 ##### 161. [Activity启动后EditText是否自动弹出输入法虚拟键盘的问题](http://mafei.me/2016/02/27/Activity%E5%90%AF%E5%8A%A8%E5%90%8EEditText%E6%98%AF%E5%90%A6%E8%87%AA%E5%8A%A8%E5%BC%B9%E5%87%BA%E8%BE%93%E5%85%A5%E6%B3%95%E8%99%9A%E6%8B%9F%E9%94%AE%E7%9B%98%E7%9A%84%E9%97%AE%E9%A2%98/)
 ##### 162. [FanMenu](https://github.com/BCGDV-ASIA/android-widget-fanmenu)
