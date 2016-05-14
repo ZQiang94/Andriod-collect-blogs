@@ -164,3 +164,4 @@
 ##### 161. [Activity启动后EditText是否自动弹出输入法虚拟键盘的问题](http://mafei.me/2016/02/27/Activity%E5%90%AF%E5%8A%A8%E5%90%8EEditText%E6%98%AF%E5%90%A6%E8%87%AA%E5%8A%A8%E5%BC%B9%E5%87%BA%E8%BE%93%E5%85%A5%E6%B3%95%E8%99%9A%E6%8B%9F%E9%94%AE%E7%9B%98%E7%9A%84%E9%97%AE%E9%A2%98/)
 ##### 162. [FanMenu](https://github.com/BCGDV-ASIA/android-widget-fanmenu)
 ##### 163. [Android动态加载技术三个关键问题详解](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=504089665&idx=2&sn=3a1811844c3833ef6b4c9c286116b0a3#rd)
+##### 164. [40条Android开发优化建议](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=504089716&idx=4&sn=34c1dc25e3d68e19b84008eeb1ec0547#rd)
