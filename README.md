@@ -168,3 +168,7 @@
 ##### 165. [38个学习新技能的最佳网站](http://www.devstore.cn/essay/essayInfo/5904.html)
 ##### 166. [从零开始的Android新项目5 - Repository层(上) Retrofit、Repository组装](http://blog.zhaiyifan.cn/2016/04/30/android-new-project-from-0-p5/)
 ##### 167. [Retrofit2与RxJava用法解析](http://www.cxbiao.com/2016/05/14/Retrofit2%E4%B8%8ERxJava%E7%94%A8%E6%B3%95%E8%A7%A3%E6%9E%90/)
+##### 168. [网络图片加载的封装【从零开始搭建android框架系列（4）】](http://www.jianshu.com/p/e26130a93289)
+##### 168. [React Native 实例 - BBC新闻客户端](http://www.wangchenlong.org/2016/05/07/1605/071-rn-bbc-news/)
+##### 170. [Android必知必会-获取View坐标和长宽的时机](http://blog.csdn.net/ys743276112/article/details/51396838)
+##### 171. [Android从按下开机键到启动发生了什么](http://mp.weixin.qq.com/s?__biz=MzIxODI4NzQ1Nw==&mid=504989834&idx=1&sn=fa9bd017d96d9b16feb79a731519823f#rd)
