@@ -165,3 +165,6 @@
 ##### 162. [FanMenu](https://github.com/BCGDV-ASIA/android-widget-fanmenu)
 ##### 163. [Android动态加载技术三个关键问题详解](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=504089665&idx=2&sn=3a1811844c3833ef6b4c9c286116b0a3#rd)
 ##### 164. [40条Android开发优化建议](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=504089716&idx=4&sn=34c1dc25e3d68e19b84008eeb1ec0547#rd)
+##### 165. [38个学习新技能的最佳网站](http://www.devstore.cn/essay/essayInfo/5904.html)
+##### 166. [从零开始的Android新项目5 - Repository层(上) Retrofit、Repository组装](http://blog.zhaiyifan.cn/2016/04/30/android-new-project-from-0-p5/)
+##### 167. [Retrofit2与RxJava用法解析](http://www.cxbiao.com/2016/05/14/Retrofit2%E4%B8%8ERxJava%E7%94%A8%E6%B3%95%E8%A7%A3%E6%9E%90/)
