@@ -2,6 +2,8 @@
 记录自己遇到的比较有价值的Android相关的blog</br>[MaHua](http://mahua.jser.me/)是online md编辑器，挺好用。
 ###  随便搞了个基于github的个人blog站点--[ZQiang94.github.io](http://zqiang94.github.io/)
 
+### [Google I/O大会1](http://gold.xitu.io/entry/57389479ad5b95005740cc9d)
+
 ##### 1. [Android 6.0 新特性](http://seewhy.leanote.com/post/Android-6.0-Changes) 
 ##### 2. [美团技术团队博客](http://tech.meituan.com/)
 ##### 3. [阿里技术团队博客](http://csrd.aliapp.com/)
@@ -172,3 +174,8 @@
 ##### 168. [React Native 实例 - BBC新闻客户端](http://www.wangchenlong.org/2016/05/07/1605/071-rn-bbc-news/)
 ##### 170. [Android必知必会-获取View坐标和长宽的时机](http://blog.csdn.net/ys743276112/article/details/51396838)
 ##### 171. [Android从按下开机键到启动发生了什么](http://mp.weixin.qq.com/s?__biz=MzIxODI4NzQ1Nw==&mid=504989834&idx=1&sn=fa9bd017d96d9b16feb79a731519823f#rd)
+##### 172. [Android-transulcent-status-bar总结](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0330/4104.html)
+##### 173. [Android 进程使用 Messenger 通信](http://www.wangchenlong.org/2016/05/17/1605/171-android-messenger/)
+##### 174. [一个很赞的RecyclerView Adapter辅助类](http://droidyue.com/blog/2016/05/09/baserecyclerviewadapterhelper/)
+##### 175. [T-MVP：泛型深度解耦下的MVP大瘦身](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0513/4260.html)
+##### 176. [Retrofit2 完全解析 探索与okhttp之间的关系](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0504/4208.html)
