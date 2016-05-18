@@ -181,3 +181,5 @@
 ##### 176. [Retrofit2 完全解析 探索与okhttp之间的关系](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0504/4208.html)
 ##### 177. [Context基础！](http://xesam.github.io/android/2015/05/17/Android-Context%E5%9F%BA%E7%A1%80.html)
 ##### 178. [Android调用系统相机和相册](http://mp.weixin.qq.com/s?__biz=MzI4MzE2MTQ5Mw==&mid=2649752128&idx=1&sn=0507f1798dcc197a8fc4d1f37442e40a#rd)
+##### 179. [Android Tips 8](http://www.wangchenlong.org/2016/05/18/tips/1605/181-android-tips-8/)
+##### 180. [Android动态加载so文件（解决so文件冲突）](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=504089723&idx=1&sn=476bf2d44c24605cbe3d43158581075e#rd)
