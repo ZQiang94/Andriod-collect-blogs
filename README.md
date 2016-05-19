@@ -2,8 +2,6 @@
 记录自己遇到的比较有价值的Android相关的blog</br>[MaHua](http://mahua.jser.me/)是online md编辑器，挺好用。
 ###  随便搞了个基于github的个人blog站点--[ZQiang94.github.io](http://zqiang94.github.io/)
 
-### [Google I/O大会1](http://gold.xitu.io/entry/57389479ad5b95005740cc9d)
-
 ##### 1. [Android 6.0 新特性](http://seewhy.leanote.com/post/Android-6.0-Changes) 
 ##### 2. [美团技术团队博客](http://tech.meituan.com/)
 ##### 3. [阿里技术团队博客](http://csrd.aliapp.com/)
@@ -188,5 +186,5 @@
 ##### 183. [为Android开发者整理的Google I/O开发者大会第一弹](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057489&idx=1&sn=8b7cd4f827afc607514e8bf69b27a461#rd)
 ##### 184. [闯过这 54 关，点亮你的 Git 技能树 (二)](https://segmentfault.com/a/1190000005123830)
 ##### 185. [Android UI 开发里的尺寸单位理解](http://mazhuang.org/2015/04/06/dp-sp-px/)
+##### 186. [T-MVP：泛型深度解耦下的MVP大瘦身](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0513/4260.html)
 
-##### 186. []()
