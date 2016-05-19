@@ -183,3 +183,10 @@
 ##### 178. [Android调用系统相机和相册](http://mp.weixin.qq.com/s?__biz=MzI4MzE2MTQ5Mw==&mid=2649752128&idx=1&sn=0507f1798dcc197a8fc4d1f37442e40a#rd)
 ##### 179. [Android Tips 8](http://www.wangchenlong.org/2016/05/18/tips/1605/181-android-tips-8/)
 ##### 180. [Android动态加载so文件（解决so文件冲突）](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=504089723&idx=1&sn=476bf2d44c24605cbe3d43158581075e#rd)
+##### 181. [从BaseActivity与BaseFragment的封装谈起](http://blog.csdn.net/tyk0910/article/details/51355026)
+##### 182. [Android自定义控件三部曲文章索引](http://blog.csdn.net/harvic880925/article/details/50995268)
+##### 183. [为Android开发者整理的Google I/O开发者大会第一弹](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057489&idx=1&sn=8b7cd4f827afc607514e8bf69b27a461#rd)
+##### 184. [闯过这 54 关，点亮你的 Git 技能树 (二)](https://segmentfault.com/a/1190000005123830)
+##### 185. [Android UI 开发里的尺寸单位理解](http://mazhuang.org/2015/04/06/dp-sp-px/)
+
+##### 186. []()
