@@ -187,4 +187,4 @@
 ##### 184. [闯过这 54 关，点亮你的 Git 技能树 (二)](https://segmentfault.com/a/1190000005123830)
 ##### 185. [Android UI 开发里的尺寸单位理解](http://mazhuang.org/2015/04/06/dp-sp-px/)
 ##### 186. [T-MVP：泛型深度解耦下的MVP大瘦身](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0513/4260.html)
-
+##### 187. [Android开源类库栈](http://www.androidblog.cn/index.php/Source)
