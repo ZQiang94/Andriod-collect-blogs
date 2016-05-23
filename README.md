@@ -191,3 +191,4 @@
 ##### 188. [完整回顾 Google I/O 2016 大会发布的 10 样新玩意](http://www.jcodecraeer.com/a/anzhuokaifa/anzhuozixun/2016/0519/4275.html)
 ##### 189. [带你一步步理解使用 ConstraintLayout](http://www.jianshu.com/p/793f76cf9fea)
 ##### 190. [一种提高Android应用进程存活率新方法](http://skyseraph.com/2016/06/19/Android/%E4%B8%80%E7%A7%8D%E6%8F%90%E9%AB%98Android%E5%BA%94%E7%94%A8%E8%BF%9B%E7%A8%8B%E5%AD%98%E6%B4%BB%E7%8E%87%E6%96%B0%E6%96%B9%E6%B3%95/)
+##### 191. [公共技术点之 View 事件传递](http://p.codekk.com/blogs/detail/54cfab086c4761e5001b253e)
