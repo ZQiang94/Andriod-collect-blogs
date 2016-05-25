@@ -194,3 +194,4 @@
 ##### 191. [公共技术点之 View 事件传递](http://p.codekk.com/blogs/detail/54cfab086c4761e5001b253e)
 ##### 192. [彻底弄懂Activity四大启动模式](http://blog.csdn.net/mynameishuangshuai/article/details/51491074)
 ##### 193. [Android博客周刊#第19期#](http://mp.weixin.qq.com/s?__biz=MzIxNjM0OTYzMA==&mid=2247483931&idx=1&sn=4f86b8b65b31ffa0a62355a09138a0fa&scene=1&srcid=0524tbD8OVr8t7rg8NnnJsKF&from=groupmessage&isappinstalled=0#wechat_redirect)
+##### 194. [RxJava + Retrofit 的实际应用场景](http://www.jianshu.com/p/27cd7ecf3250)
