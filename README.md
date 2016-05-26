@@ -195,3 +195,5 @@
 ##### 192. [彻底弄懂Activity四大启动模式](http://blog.csdn.net/mynameishuangshuai/article/details/51491074)
 ##### 193. [Android博客周刊#第19期#](http://mp.weixin.qq.com/s?__biz=MzIxNjM0OTYzMA==&mid=2247483931&idx=1&sn=4f86b8b65b31ffa0a62355a09138a0fa&scene=1&srcid=0524tbD8OVr8t7rg8NnnJsKF&from=groupmessage&isappinstalled=0#wechat_redirect)
 ##### 194. [RxJava + Retrofit 的实际应用场景](http://www.jianshu.com/p/27cd7ecf3250)
+##### 195. [［Android基础］Android总结篇](http://blog.csdn.net/codeemperor/article/details/51004189)
+##### 196. [Material Design技术分享](https://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231829&idx=1&sn=2418c741e7f0e41f6ac4fff4dc2de6f0&scene=1&srcid=0526kJT3uB1vIPjVXTVrSKjW&pass_ticket=muxDwCVjxMK%2Fz1ncol%2B4QyK94pZsvdn%2FSA4JigA6HWU1Hf%2Fr6BUURvZ002TBW6Oq#rd)
