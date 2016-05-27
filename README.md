@@ -197,3 +197,4 @@
 ##### 194. [RxJava + Retrofit 的实际应用场景](http://www.jianshu.com/p/27cd7ecf3250)
 ##### 195. [［Android基础］Android总结篇](http://blog.csdn.net/codeemperor/article/details/51004189)
 ##### 196. [Material Design技术分享](https://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231829&idx=1&sn=2418c741e7f0e41f6ac4fff4dc2de6f0&scene=1&srcid=0526kJT3uB1vIPjVXTVrSKjW&pass_ticket=muxDwCVjxMK%2Fz1ncol%2B4QyK94pZsvdn%2FSA4JigA6HWU1Hf%2Fr6BUURvZ002TBW6Oq#rd)
+##### 197. [知道Android 中Gradle 的这些技巧，提升编译构建速度](http://tikitoo.github.io/2016/05/26/android-studio-gradle-build-run-faster/)
