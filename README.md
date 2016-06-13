@@ -226,3 +226,15 @@
 ##### 312. [类似QQ、微信、微博的WeiBoLayout](http://zheblog.com/2016/06/06/%E5%BE%AE%E5%8D%9AWeiBoLayout/)
 ##### 313. [AndroidStudio上面最好用的插件](http://www.jianshu.com/p/d76b60a3883d)
 ##### 314. [Android中的Service：Binder，Messenger，AIDL（2）](http://blog.csdn.net/luoyanglizi/article/details/51594016)
+##### 315. [MultiDex安装过程源码分析](http://mouxuejie.com/blog/2016-06-11/multidex-source-analysis/)
+##### 316. [Android网络操作和优化相关](http://blog.csdn.net/sdkfjksf/article/details/51645315)
+##### 317. [打造属于你的LayoutManager](http://blog.csdn.net/huachao1001/article/details/51594004#rd)
+##### 318. [由浅入深全面剖析ThreadLocal](http://blog.csdn.net/luoyanglizi/article/details/51510233)
+##### 319. [HTTPS理论基础及其在Android中的最佳实践](http://blog.csdn.net/iispring/article/details/51615631)
+##### 320. [程序员福利：各大平台免费接口，非常实用](http://mp.weixin.qq.com/s?__biz=MzA5NDIzNzY1OQ==&mid=2735610010&idx=1&sn=67e3f0833f1097a279d850e2098956ff&scene=0#wechat_redirect)
+##### 321. [Android App 不死之路](http://www.jianshu.com/p/a4a6222654a0)
+##### 322. [99%的人都理解错了HTTP中GET与POST的区别](http://mp.weixin.qq.com/s?__biz=MzI3NzIzMzg3Mw==&mid=100000054&idx=1&sn=71f6c214f3833d9ca20b9f7dcd9d33e4#rd)
+##### 323. [使用AIDL实现Android的跨进程通信](http://www.jianshu.com/p/e642db926c50)
+##### 324. [QingtingBannerView](https://github.com/JeasonWong/QingtingBannerView)
+##### 325. []
+##### 326. []
