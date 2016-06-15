@@ -245,4 +245,4 @@
 ##### 241. [SmartHeaderFooterRecyclerview](https://github.com/songhanghang/Smart-HeaderFooter-RecyclerView)
 ##### 242. [快速反编译APK（Mac环境）](http://www.jianshu.com/p/b3bb4da64dc7)
 ##### 243. [你必须弄懂的Intent Filter匹配规则](http://blog.csdn.net/mynameishuangshuai/article/details/51673273)
-##### 244. []()
+##### 244. [常用的几十个Git小技巧分类与总结](https://segmentfault.com/a/1190000005706707)
