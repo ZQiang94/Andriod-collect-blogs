@@ -247,3 +247,7 @@
 ##### 243. [你必须弄懂的Intent Filter匹配规则](http://blog.csdn.net/mynameishuangshuai/article/details/51673273)
 ##### 244. [常用的几十个Git小技巧分类与总结](https://segmentfault.com/a/1190000005706707)
 ##### 245. [Android必知必会-Android Studio修改包名](http://blog.csdn.net/ys743276112/article/details/51684294)
+##### 246. [那些酷炫的RecyclerView开源库整理](http://www.jianshu.com/p/154891851fe2)
+##### 247. [Java中的JSON数据绑定框架Jackson使用介绍](https://segmentfault.com/a/1190000005717319)
+##### 248. [使用ContentProvider跨进程共享数据](http://www.jianshu.com/p/61e42b7e2fd9)
+##### 249. [Android Retrofit 2.0 使用-补充篇](http://mp.weixin.qq.com/s?__biz=MzI4MzE2MTQ5Mw==&mid=2649752178&idx=1&sn=0f1d0836ce04ed12fafc89b464c2a131#rd)
