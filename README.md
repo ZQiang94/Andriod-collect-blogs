@@ -251,3 +251,4 @@
 ##### 247. [Java中的JSON数据绑定框架Jackson使用介绍](https://segmentfault.com/a/1190000005717319)
 ##### 248. [使用ContentProvider跨进程共享数据](http://www.jianshu.com/p/61e42b7e2fd9)
 ##### 249. [Android Retrofit 2.0 使用-补充篇](http://mp.weixin.qq.com/s?__biz=MzI4MzE2MTQ5Mw==&mid=2649752178&idx=1&sn=0f1d0836ce04ed12fafc89b464c2a131#rd)
+##### 250. [2016年度最受欢迎的100个 Java 库](https://segmentfault.com/a/1190000005663071)
