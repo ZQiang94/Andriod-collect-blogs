@@ -254,3 +254,6 @@
 ##### 250. [2016年度最受欢迎的100个 Java 库](https://segmentfault.com/a/1190000005663071)
 ##### 251. [ Android内存泄漏解决方案(OOM)](http://blog.csdn.net/imuhao/article/details/51694144)
 ##### 252. [你拥有它，让你Android开发更简单](http://www.jianshu.com/p/1fb7c5e1fee4)
+##### 253. [MVP+Rxjava+Retrofit构建项目](http://www.jianshu.com/p/b1da0387f805)
+##### 254. [如何打造一个高性能的Hybrid App](https://segmentfault.com/a/1190000005732602)
+##### 255. [从0开始学习 GitHub 系列之「Git 进阶」](https://zhuanlan.zhihu.com/p/21367056)
