@@ -257,3 +257,4 @@
 ##### 253. [MVP+Rxjava+Retrofit构建项目](http://www.jianshu.com/p/b1da0387f805)
 ##### 254. [如何打造一个高性能的Hybrid App](https://segmentfault.com/a/1190000005732602)
 ##### 255. [从0开始学习 GitHub 系列之「Git 进阶」](https://zhuanlan.zhihu.com/p/21367056)
+##### 256. [带你领略简单而强大的注解](http://mp.weixin.qq.com/s?__biz=MzIzMjE1Njg4Mw==&mid=2650117722&idx=1&sn=19bdbfcbaa5ce524988af0a35b3fa574#rd)
