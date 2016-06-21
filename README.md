@@ -259,4 +259,5 @@
 ##### 255. [从0开始学习 GitHub 系列之「Git 进阶」](https://zhuanlan.zhihu.com/p/21367056)
 ##### 256. [带你领略简单而强大的注解](http://mp.weixin.qq.com/s?__biz=MzIzMjE1Njg4Mw==&mid=2650117722&idx=1&sn=19bdbfcbaa5ce524988af0a35b3fa574#rd)
 ##### 257. [是时候用NoHttp来替换Volley了](http://www.yanzhenjie.com/nohttp.html)
-##### 258. []()
+##### 258. [Android线程,线程池使用及原理博文参考](http://www.jianshu.com/p/a79b8765f729)
+##### 259. [第4章 类和接口](http://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872269&idx=1&sn=3e96d3e374e3c958041383f653d8b2ab#rd)
