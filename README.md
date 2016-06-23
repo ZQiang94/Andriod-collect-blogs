@@ -269,3 +269,4 @@
 ##### 265. [OkHttpUtils一个专注于让网络请求更简单的框架](http://www.jianshu.com/p/4c17956fe3b4)
 ##### 266. [使用DialogFragment实现底部弹窗布局](http://www.jianshu.com/p/3d045ee00880)
 ##### 267. [React Native开源项目-公司移动OA办公客户端](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358145&idx=1&sn=09852c1d27461368afa54f6408549180#rd)
+##### 268. [ Android应用开发编译框架流程与IDE及Gradle概要](http://blog.csdn.net/yanbober/article/details/49408489)
