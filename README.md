@@ -277,3 +277,8 @@
 ##### 273. [酷炫的Activity切换动画，打造更好的用户体验](http://blog.csdn.net/huachao1001/article/details/51659963)
 ##### 274. [详解实现Android中实现View滑动的几种方式](http://www.cnblogs.com/absfree/p/5352258.html)
 ##### 275. [深度讲解 Android 主题层级](https://github.com/xitu/gold-miner/blob/master/TODO/android-themes-an-in-depth-guide.md)
+##### 276. [老司机谈APK瘦身套路-图片资源篇](http://blog.csdn.net/mynameishuangshuai/article/details/51752832)
+##### 277. [Retrofit2+RxJava+LoganSquare最佳实践](https://mp.weixin.qq.com/s?__biz=MzI3ODI3NTU3Mg==&mid=2247483680&idx=1&sn=9c1b75689e3500a7f96e71091140f030&scene=1&srcid=0623VCnTQHkrWTHHlgXodg8b&key=77421cf58af4a65396464cf489034b7c011899b1784e9851cc31559d07cb3e2b952fc9c46233800ef77228dbe377c0d9&ascene=0&uin=MTA4NDYwMDI4Mg%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11.5+build(15F34)&version=11020201&pass_ticket=8nd2AO%2BUtoPJ7Jhnc43vbpMNPHaYICxCVHXh64HUzFpI1NRPWF2Kk3ac20irrqwn)
+##### 278. [一步步教你写StepView（流程指示器）](http://www.jianshu.com/p/df03c1276121)
+##### 279. [Android 名企面试题及涉及知识点整理。](https://github.com/Mr-YangCheng/ForAndroidInterview)
+##### 280. [ 从Android代码中来记忆23种设计模式](http://blog.csdn.net/huachao1001/article/details/51536074)
