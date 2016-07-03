@@ -310,3 +310,8 @@
 ##### 306. [微信 Android 热补丁实践演进之路](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577297&idx=2&sn=f7dab65e2696aa9f9fda7102e91e7fcb&scene=0#wechat_redirect)
 ##### 307. [Android jenkins](http://valuesfeng.github.io/2016/06/30/Android-jenkins/)
 ##### 308. [Android消息处理机制(Handler、Looper、MessageQueue与Message)](http://www.cnblogs.com/angeldevil/p/3340644.html)
+##### 309. [Android 开发者选项详述](http://www.woaitqs.cc/android/2016/06/28/android-developer-options.html)
+##### 310. [码农和英语](http://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665513182&idx=1&sn=927a7066c46f854baa5b07cf0fffd654#rd)
+##### 311. [Java对象锁和类锁全面解析（多线程synchronized关键字）](http://www.importnew.com/20444.html)
+##### 312. [Java 并发 学习笔记](http://www.jianshu.com/p/cb1a23bc82d0)
+##### 313. [给 Android 初学者的 Gradle 知识普及](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661971&idx=1&sn=3fb69537bbc5fbb14d152ba6381c3b83#rd)
