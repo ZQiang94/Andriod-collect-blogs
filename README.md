@@ -315,3 +315,4 @@
 ##### 311. [Java对象锁和类锁全面解析（多线程synchronized关键字）](http://www.importnew.com/20444.html)
 ##### 312. [Java 并发 学习笔记](http://www.jianshu.com/p/cb1a23bc82d0)
 ##### 313. [给 Android 初学者的 Gradle 知识普及](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661971&idx=1&sn=3fb69537bbc5fbb14d152ba6381c3b83#rd)
+##### 314. [Android分享：代码混淆那些事](https://segmentfault.com/a/1190000004461614)
