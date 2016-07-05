@@ -316,3 +316,8 @@
 ##### 312. [Java 并发 学习笔记](http://www.jianshu.com/p/cb1a23bc82d0)
 ##### 313. [给 Android 初学者的 Gradle 知识普及](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661971&idx=1&sn=3fb69537bbc5fbb14d152ba6381c3b83#rd)
 ##### 314. [Android分享：代码混淆那些事](https://segmentfault.com/a/1190000004461614)
+##### 315. [与 so 有关的一个长年大坑](https://zhuanlan.zhihu.com/p/21359984)
+##### 316. [自动更新，一个方法搞定](http://blog.csdn.net/shan_yao/article/details/51691902)
+##### 317. [那些做Android开发必须知道的ADB命令](http://yifeiyuan.me/2016/06/30/ADB%E5%91%BD%E4%BB%A4%E6%95%B4%E7%90%86/)
+##### 318. [Android 热修复其实很简单](http://blog.csdn.net/qq_31530015/article/details/51785228)
+##### 319. [那些值得你试试的Android竞品分析工具](http://www.jianshu.com/p/ba2d9eca47a2)
