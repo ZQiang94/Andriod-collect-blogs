@@ -322,3 +322,6 @@
 ##### 318. [Android 热修复其实很简单](http://blog.csdn.net/qq_31530015/article/details/51785228)
 ##### 319. [那些值得你试试的Android竞品分析工具](http://www.jianshu.com/p/ba2d9eca47a2)
 ##### 320. [Android 线程的正确使用姿势](http://android.jobbole.com/82440/)
+##### 321. [Android 常用工具类](http://hjxandhmr.github.io/2016/04/19/Android-Utils/)
+##### 322. [Android组件化和插件化开发](http://dahei.me/2016/06/30/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E5%92%8C%E6%8F%92%E4%BB%B6%E5%8C%96%E5%BC%80%E5%8F%91/)
+##### 323. [移动网络下的性能优化之网络篇](https://blog.wilddog.com/?p=974)
