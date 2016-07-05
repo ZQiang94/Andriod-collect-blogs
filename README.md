@@ -325,3 +325,4 @@
 ##### 321. [Android 常用工具类](http://hjxandhmr.github.io/2016/04/19/Android-Utils/)
 ##### 322. [Android组件化和插件化开发](http://dahei.me/2016/06/30/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E5%92%8C%E6%8F%92%E4%BB%B6%E5%8C%96%E5%BC%80%E5%8F%91/)
 ##### 323. [移动网络下的性能优化之网络篇](https://blog.wilddog.com/?p=974)
+##### 324. [CoordinatorLayout的使用如此简单](http://blog.csdn.net/huachao1001/article/details/51554608)
