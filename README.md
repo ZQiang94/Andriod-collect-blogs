@@ -321,3 +321,4 @@
 ##### 317. [那些做Android开发必须知道的ADB命令](http://yifeiyuan.me/2016/06/30/ADB%E5%91%BD%E4%BB%A4%E6%95%B4%E7%90%86/)
 ##### 318. [Android 热修复其实很简单](http://blog.csdn.net/qq_31530015/article/details/51785228)
 ##### 319. [那些值得你试试的Android竞品分析工具](http://www.jianshu.com/p/ba2d9eca47a2)
+##### 320. [Android 线程的正确使用姿势](http://android.jobbole.com/82440/)
