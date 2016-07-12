@@ -357,5 +357,5 @@
 ##### 353. [读懂 Android 中的代码混淆](http://droidyue.com/blog/2016/07/10/understanding-android-obfuscated-code-by-proguard/)
 ##### 354. [缓存架构的理论分析](https://segmentfault.com/a/1190000005923969)
 ##### 355. [Dagger2使用详解](http://zpayh.xyz/2016/07/07/Dagger2%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/)
-##### 356. []()
+##### 356. [Google官方MVP+Dagger2架构详解【从零开始搭建android框架系列（6）】](http://www.jianshu.com/p/01d3c014b0b1)
 ##### 357. []()
