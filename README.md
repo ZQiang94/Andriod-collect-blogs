@@ -358,4 +358,5 @@
 ##### 354. [缓存架构的理论分析](https://segmentfault.com/a/1190000005923969)
 ##### 355. [Dagger2使用详解](http://zpayh.xyz/2016/07/07/Dagger2%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/)
 ##### 356. [Google官方MVP+Dagger2架构详解【从零开始搭建android框架系列（6）】](http://www.jianshu.com/p/01d3c014b0b1)
-##### 357. []()
+##### 357. [Android去除烦人的默认闪退Dialog](http://sixwolf.net/blog/2016/04/11/Android%E5%8E%BB%E9%99%A4%E7%83%A6%E4%BA%BA%E7%9A%84%E9%97%AA%E9%80%80%E5%BC%B9%E7%AA%97/)
+##### 358. []()
