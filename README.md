@@ -370,3 +370,4 @@
 ##### 366. [拆轮子系列：拆 OkHttp](http://blog.piasy.com/2016/07/11/Understand-OkHttp/)
 ##### 367. [android产品研发（十二）-->App长连接实现](http://blog.csdn.net/qq_23547831/article/details/51690047)
 ##### 368. [最美应用－从 Android 研发工程师的角度 の 最美时光](http://mp.weixin.qq.com/s?__biz=MzAwMTYwNzE2Mg==&mid=2651036618&idx=1&sn=d8c00395c9daadef4faccef965ee527f#rd)
+##### 369. [微信App支付全解析](http://www.jianshu.com/p/9b353529f02c)
