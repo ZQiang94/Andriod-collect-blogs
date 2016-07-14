@@ -368,3 +368,5 @@
 ##### 364. [github项目解析（五）-->android日志框架](http://blog.csdn.net/qq_23547831/article/details/51707796)
 ##### 365. [android产品研发（十三）-->App轮询操作](http://blog.csdn.net/qq_23547831/article/details/51719389)
 ##### 366. [拆轮子系列：拆 OkHttp](http://blog.piasy.com/2016/07/11/Understand-OkHttp/)
+##### 367. [android产品研发（十二）-->App长连接实现](http://blog.csdn.net/qq_23547831/article/details/51690047)
+##### 368. [最美应用－从 Android 研发工程师的角度 の 最美时光](http://mp.weixin.qq.com/s?__biz=MzAwMTYwNzE2Mg==&mid=2651036618&idx=1&sn=d8c00395c9daadef4faccef965ee527f#rd)
