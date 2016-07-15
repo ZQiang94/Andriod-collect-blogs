@@ -376,7 +376,7 @@
 ##### 372. [android产品研发（十）-->尽量不使用静态变量保存数据](http://blog.csdn.net/qq_23547831/article/details/51655330)
 ##### 373. [Android安全开发之浅谈网页打开APP](https://yq.aliyun.com/articles/57088?&utm_source=qq)
 ##### 374. [可能是讲解Binder机制最好的文章](http://www.jianshu.com/p/1eff5a13000d)
-##### 375. []()
+##### 375. [Android Studio Plugin is too old、Gradle version 2.10 is required问题解决方法](http://yanziyu.top/2016/03/21/as-issue/)
 ##### 376. []()
 ##### 377. []()
 ##### 378. []()
