@@ -388,3 +388,6 @@
 ##### 384. [仿饿了么点击购物效果](https://github.com/JeasonWong/ElemeShoppingView)
 ##### 385. [Google I/O 2016 笔记：APK 瘦身的正确姿势](https://zhuanlan.zhihu.com/p/21543787)
 ##### 386. [一个千万量级的APP使用的一些第三方库](http://www.jianshu.com/p/dc8c05cf693d)
+##### 387. [优雅的方式解决软键盘遮挡按钮](http://www.jianshu.com/p/49efa382352a)
+##### 388. [Android引导页根据滑动渐变改变背景色](http://www.jianshu.com/p/c795ad5bf6f4)
+##### 389. []()
