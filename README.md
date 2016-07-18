@@ -404,9 +404,9 @@
 ##### 400. [代码进行动态设置主题](https://github.com/luxiaoming/ScoopsDemo)
 ##### 401. [浅谈依赖注入与控制反转](http://hersface.com/page/DI_IoC.html)
 ##### 402. [设计模式速谈：二、简单工厂模式](https://www.yhspy.com/blog/182/)
-##### 403. []()
-##### 404. []()
-##### 405. []()
-##### 406. []()
+##### 403. [浅谈Android自定义锁屏页的发车姿势](http://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231949&idx=1&sn=c5de2b2a719644392ddc756a6c6d5920&scene=0#wechat_redirect)
+##### 404. [做的很不错的一款侧边栏索引](https://github.com/Solartisan/WaveSideBar)
+##### 405. [一个看了就心情很好的 Switch 组件，好有创意](https://github.com/ztelur/FunSwitch)
+##### 406. [关于 Android 透明状态栏的研究与兼容](https://github.com/niorgai/StatusBarCompat)
 ##### 407. []()
 
