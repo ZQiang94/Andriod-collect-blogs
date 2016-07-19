@@ -419,4 +419,4 @@
 ##### 415. [详解Dagger2系列之开始篇：磨刀不误砍柴工](https://dreamerhome.github.io/2016/07/07/dagger/)
 ##### 416. [Android端应用秒开优化体验](http://zhengxiaoyong.me/2016/07/18/Android%E7%AB%AF%E5%BA%94%E7%94%A8%E7%A7%92%E5%BC%80%E4%BC%98%E5%8C%96%E4%BD%93%E9%AA%8C/)
 ##### 417. [为什么Android开发者应该使用FlatBuffers替代JSON?](http://www.infoq.com/cn/news/2016/07/FlatBuffers-JSON-Android)
-
+##### 418. [Android 设计模式](http://m.blog.csdn.net/article/details?plg_nld=1&id=24985607&plg_auth=1&plg_uin=1&plg_usr=1&plg_vkey=1&plg_nld=1&plg_dev=1)
