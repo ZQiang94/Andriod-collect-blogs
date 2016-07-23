@@ -457,7 +457,7 @@
 ##### 455. [理解Java中的ThreadLocal](http://droidyue.com/blog/2016/03/13/learning-threadlocal-in-java/)
 ##### 456. [Android签名相关知识整理](http://droidyue.com/blog/2016/03/06/summary-of-android-signing/)
 ##### 457. [关于获取当前Activity的一些思考](http://droidyue.com/blog/2016/02/21/thinking-of-getting-the-current-activity-in-android/)
-##### 458. []()
+##### 458. [Android闹钟设置的解决方案](http://www.jianshu.com/p/1f919c6eeff6)
 ##### 459. []()
 ##### 450. []()
 ##### 450. []()
