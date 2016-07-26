@@ -484,5 +484,3 @@
 ##### 468. [详解View的基础概念](http://www.jianshu.com/p/e76374706c3e)
 ##### 469. [Android创建桌面快捷方式](http://blog.csdn.net/bjp000111/article/details/51363981)
 ##### 470. [老司机开车带你体验Parcelable到底有多快](https://dreamerhome.github.io/2016/07/22/parcelable/)
-##### 470. []()
-##### 470. []()
