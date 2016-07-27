@@ -497,3 +497,4 @@
 ##### 481. [Android中保存和恢复Fragment状态的最好方法](http://www.luchenglong.com/2016/07/06/20160706/)
 ##### 483. [Android内存泄露——全解析和处理办法](http://www.jianshu.com/p/bf159a9c391a)
 ##### 484. [Android消息处理机制：Handler|Message](http://shaohui.me/2016/07/15/Android%E6%B6%88%E6%81%AF%E5%A4%84%E7%90%86%E6%9C%BA%E5%88%B6%EF%BC%9AHandler-Message/)
+##### 485. [用flux搭建实用性非常强的Android开发框架](http://www.jianshu.com/p/4b755df66a97)
