@@ -493,3 +493,7 @@
 ##### 477. [自定义View——弹性滑动](https://github.com/Idtk/Blog/blob/master/Blog/8%E3%80%81Scroll.md)
 ##### 478. [谈UIView Animation编程艺术](http://www.jianshu.com/p/51ce7966a038)
 ##### 479. [LeetCode 刷题指南（一）：为什么要刷题](https://segmentfault.com/a/1190000006059081?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+##### 480. [Android RecyclerView 顶部悬浮实现](http://www.jianshu.com/p/c596f2e6f587)
+##### 481. [Android中保存和恢复Fragment状态的最好方法](http://www.luchenglong.com/2016/07/06/20160706/)
+##### 483. [Android内存泄露——全解析和处理办法](http://www.jianshu.com/p/bf159a9c391a)
+##### 484. [Android消息处理机制：Handler|Message](http://shaohui.me/2016/07/15/Android%E6%B6%88%E6%81%AF%E5%A4%84%E7%90%86%E6%9C%BA%E5%88%B6%EF%BC%9AHandler-Message/)
