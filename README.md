@@ -498,3 +498,6 @@
 ##### 483. [Android内存泄露——全解析和处理办法](http://www.jianshu.com/p/bf159a9c391a)
 ##### 484. [Android消息处理机制：Handler|Message](http://shaohui.me/2016/07/15/Android%E6%B6%88%E6%81%AF%E5%A4%84%E7%90%86%E6%9C%BA%E5%88%B6%EF%BC%9AHandler-Message/)
 ##### 485. [用flux搭建实用性非常强的Android开发框架](http://www.jianshu.com/p/4b755df66a97)
+##### 486. [10倍提升应用性能的10个建议](http://www.zcfy.cc/article/10-tips-for-10x-application-performance-nginx-22.html)
+##### 487. [android MVVM开发模式（三）](http://mp.weixin.qq.com/s?__biz=MzI1MjMyOTU2Ng==&mid=2247483902&idx=1&sn=a1ed6337a63edb961576a1685538355e&scene=0#wechat_redirectandroid MVVM开发模式（三）)
+##### 488. [Android自定义控件1](http://blog.csdn.net/yissan/article/details/51136088)
