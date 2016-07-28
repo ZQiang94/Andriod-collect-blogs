@@ -502,3 +502,8 @@
 ##### 487. [android MVVM开发模式（三）](http://mp.weixin.qq.com/s?__biz=MzI1MjMyOTU2Ng==&mid=2247483902&idx=1&sn=a1ed6337a63edb961576a1685538355e&scene=0#wechat_redirectandroid MVVM开发模式（三）)
 ##### 488. [Android自定义控件1](http://blog.csdn.net/yissan/article/details/51136088)
 ##### 489. [UML类图实例](http://blog.csdn.net/erlian1992/article/details/52044410)
+##### 490. [多module合成单一module技巧](http://www.jianshu.com/p/9b022951571c)
+##### 491. [Android自定义控件实战——下拉刷新控件终结者：PullToRefreshLayout](http://blog.csdn.net/zhongkejingwang/article/details/38340701)
+##### 492. [关于 Android 自定义控件，你想谈一些什么？](http://www.diycode.cc/topics/81)
+##### 493. [携程App网络服务通道治理和性能优化@2016](https://mp.weixin.qq.com/s?__biz=MzAwMTcwNTE0NA==&mid=2647810361&idx=1&sn=f142ac2ce1c2dc68437accfb98485372&scene=1&srcid=0727rUzBm0bOszrk08cxUVmN&key=8dcebf9e179c9f3ad4afd8674bcea048df2d0b1a4d219cdfa32cb0a9458f0f3ca0ba3bc470b44a8a8d2ce29944419f2d&ascene=0&uin=MjExMjQ1&devicetype=iMac14%2C3+OSX+OSX+10.11.5+build(15F34)&version=11020201&pass_ticket=XULwWgnZ%2BBcwrgTx7f45pqI2ax73TWj9a9lQ2XgiHwg%3D)
+##### 494. [Android 中 SQLite 性能优化](http://droidyue.com/blog/2015/12/13/android-sqlite-tuning/)
