@@ -4,9 +4,9 @@
 记录自己遇到的比较有价值的Android相关的blog</br>[MaHua](http://mahua.jser.me/)是online md编辑器，挺好用。
 ###  随便搞了个基于github的个人blog站点--[ZQiang94.github.io](http://zqiang94.github.io/)
 
-##### 1. [Android 6.0 新特性](http://seewhy.leanote.com/post/Android-6.0-Changes) 
+##### 1. [如何发现优秀的开源项目？](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662079&idx=1&sn=65605f0d9bd741d38f0b179980dc09f1&scene=23&srcid=0729BwJZYHqM2sAT0szKPXXv#rd) 
 ##### 2. [美团技术团队博客](http://tech.meituan.com/)
-##### 3. [阿里技术团队博客](http://csrd.aliapp.com/)
+##### 3. [awesome-github ：为了更好地使用 GitHub](https://gold.xitu.io/entry/56d7a0f31532bc0050741afc)
 ##### 4. [Trinea](http://www.trinea.cn/)
 ##### 5. [最新host](https://raw.githubusercontent.com/racaljk/hosts/master/hosts)
 ##### 6. [Android Weekly中文版](http://wiki.jikexueyuan.com/project/android-weekly)
