@@ -529,6 +529,6 @@
 ##### 514. [Github项目解析（十）-->几行代码快速集成二维码扫描库](http://blog.csdn.net/qq_23547831/article/details/52037710)
 ##### 515. [《HelloGithub月刊》](https://github.com/521xueweihan/HelloGithub)
 ##### 516. [ViewPager 嵌套百度地图事件冲突的解决方法](http://www.jianshu.com/p/38b3235a7ff1)
-##### 517. []()
-##### 518. []()
+##### 517. [AndroidShareGroup技术周报（第一期）](http://mouxuejie.com/blog/2016-07-30/AndroidShareGroup-weekly-01/)
+##### 518. [安卓面试题4 – 关于Handler机制](http://www.iwfu.me/2016/07/30/%E5%AE%89%E5%8D%93%E9%9D%A2%E8%AF%95%E9%A2%984-%E5%85%B3%E4%BA%8Ehandler%E6%9C%BA%E5%88%B6/)
 ##### 519. []()
