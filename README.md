@@ -531,4 +531,5 @@
 ##### 516. [ViewPager 嵌套百度地图事件冲突的解决方法](http://www.jianshu.com/p/38b3235a7ff1)
 ##### 517. [AndroidShareGroup技术周报（第一期）](http://mouxuejie.com/blog/2016-07-30/AndroidShareGroup-weekly-01/)
 ##### 518. [安卓面试题4 – 关于Handler机制](http://www.iwfu.me/2016/07/30/%E5%AE%89%E5%8D%93%E9%9D%A2%E8%AF%95%E9%A2%984-%E5%85%B3%E4%BA%8Ehandler%E6%9C%BA%E5%88%B6/)
-##### 519. []()
+##### 519. [Andoird优化(二)_内存优化_点进来看看不会后悔的](http://www.jianshu.com/p/afd4d8a6dcd6)
+##### 520. [在广告的间隔中进行数据加载](http://www.jianshu.com/p/ce870748aae2)
