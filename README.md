@@ -543,3 +543,5 @@
 ##### 528. [Android微信自动回复功能](http://www.jianshu.com/p/f67e950d84f7)
 ##### 529. [ActivityThread的main方法究竟做了什么？](http://www.jianshu.com/p/0efc71f349c8)
 ##### 530. [Dagger2 这次入门就不用放弃了](http://blog.csdn.net/u012943767/article/details/51897247)
+##### 531. [深入理解Dalvik字节码指令及Smali文件](http://blog.csdn.net/dd864140130/article/details/52076515)
+##### 531. [视图分层视差效果](https://github.com/SchibstedSpain/Parallax-Layer-Layout)
