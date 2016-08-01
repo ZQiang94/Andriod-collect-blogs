@@ -553,4 +553,4 @@
 ##### 537. [ Android源码解析之（十二）-->系统启动并解析Manifest的流程](http://blog.csdn.net/qq_23547831/article/details/51203482)
 ##### 538. [如何实现 Android 应用的持续部署？](http://blog.flow.ci/practice_language_android/)
 ##### 539. [2016 年 Android 最佳实践列表](http://blog.fir.im/fir_im_weekly160624/)
-##### 540. [使用ShareSDK完成第三方（QQ、微信、微博）登录和分享](http://www.jianshu.com/p/e374732f54f0)
+##### 540. [Android应用实现微信登录与分享](http://blog.csdn.net/jing_unique_da/article/details/47254993)
