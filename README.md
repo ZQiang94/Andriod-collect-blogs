@@ -551,5 +551,5 @@
 ##### 535. [乌云公开漏洞、知识库爬虫和搜索](https://github.com/hanc00l/wooyun_public)
 ##### 536. [从零到一发布Android开源库](http://blog.chengdazhi.com/index.php/217)
 ##### 537. [ Android源码解析之（十二）-->系统启动并解析Manifest的流程](http://blog.csdn.net/qq_23547831/article/details/51203482)
-##### 538. []()
-##### 539. []()
+##### 538. [如何实现 Android 应用的持续部署？](http://blog.flow.ci/practice_language_android/)
+##### 539. [2016 年 Android 最佳实践列表](http://blog.fir.im/fir_im_weekly160624/)
