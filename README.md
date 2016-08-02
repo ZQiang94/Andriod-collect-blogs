@@ -554,3 +554,7 @@
 ##### 538. [如何实现 Android 应用的持续部署？](http://blog.flow.ci/practice_language_android/)
 ##### 539. [2016 年 Android 最佳实践列表](http://blog.fir.im/fir_im_weekly160624/)
 ##### 540. [Android应用实现微信登录与分享](http://blog.csdn.net/jing_unique_da/article/details/47254993)
+##### 541. [Android开发人员不得不收集的代码(不断更新)](http://www.jianshu.com/p/72494773aace)
+##### 542. [自定义View强势来袭，用自定义View实现歌词显示控件上篇之实现歌词文件解析](http://www.jianshu.com/p/7b6a42deff27)
+##### 543. [Retrofit2.0使用详解](http://blog.csdn.net/ljd2038/article/details/51046512)
+##### 544. [Starred —— GitHub 增强使用工具](http://www.oschina.net/p/starred)
