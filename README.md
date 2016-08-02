@@ -559,3 +559,4 @@
 ##### 543. [Retrofit2.0使用详解](http://blog.csdn.net/ljd2038/article/details/51046512)
 ##### 544. [Starred —— GitHub 增强使用工具](http://www.oschina.net/p/starred)
 ##### 545. [View的手势分发](http://www.jianshu.com/p/9ceb49e7d5e0)
+##### 546. [5种手势工具类](http://www.jianshu.com/p/5aeaff6f92a7)
