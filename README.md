@@ -571,3 +571,8 @@
 ##### 555. [Android客户端与服务器交互，登录案例](http://lib.csdn.net/article/android/4443)
 ##### 556. [Android案例之新闻客户端服务器实现，完全属于自己的新闻展示平台](http://lib.csdn.net/article/android/4438)
 ##### 557. [Android 多线程编程的总结](http://www.diycode.cc/topics/213)
+##### 558. [求职向 15+优质实用的个人简历模板](https://xituqu.com/288.html)
+##### 559. [实现支付宝支付从底部弹窗效果](http://blog.csdn.net/greathfs/article/details/52089123)
+##### 560. [Matrix原理](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B09%5DMatrix_Basic.md)
+##### 561. [一分钟秒懂注解](https://dreamerhome.github.io/2016/08/02/annotaion/)
+##### 562. [自定义View分类与流程](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B01%5DCustomViewProcess.md)
