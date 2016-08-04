@@ -576,3 +576,4 @@
 ##### 560. [Matrix原理](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B09%5DMatrix_Basic.md)
 ##### 561. [一分钟秒懂注解](https://dreamerhome.github.io/2016/08/02/annotaion/)
 ##### 562. [自定义View分类与流程](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B01%5DCustomViewProcess.md)
+##### 563. [Andriod分辨率适配 ”葵花宝典“](http://www.ui.cn/detail/27997.html)
