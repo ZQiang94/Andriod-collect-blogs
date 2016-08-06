@@ -577,3 +577,7 @@
 ##### 561. [一分钟秒懂注解](https://dreamerhome.github.io/2016/08/02/annotaion/)
 ##### 562. [自定义View分类与流程](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B01%5DCustomViewProcess.md)
 ##### 563. [Andriod分辨率适配 ”葵花宝典“](http://www.ui.cn/detail/27997.html)
+##### 564. [Android右滑退出+沉浸式(透明)状态栏](http://www.jianshu.com/p/7dcfd243b1df)
+##### 565. [朋友圈的“全文”“收起”实现](http://www.jianshu.com/p/3c26a35d933e)
+##### 566. [utf-8和Unicode的区别](http://www.jianshu.com/p/36d20de2a1ee)
+##### 567. [ Android 在图片的指定位置添加标记](http://blog.csdn.net/zuiwuyuan/article/details/52105176)
