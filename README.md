@@ -589,3 +589,8 @@
 ##### 573. [greenDAO数据库升级](http://www.jianshu.com/p/e1b3ad06b8e6)
 ##### 574. [拉升App颜值－android优雅酷炫的图片处理](http://www.jianshu.com/p/73169f1ffad5)
 ##### 575. [Android Studio 掌握这些调试技巧，Debug能力不能再高啦](http://www.jianshu.com/p/985f788fae2c)
+##### 576. [ubuntu 工具 -- 5分钟入手Terminator](http://www.jianshu.com/p/cee2de32ca28)
+##### 577. [Android打包系列——多渠道打包及签名](http://mouxuejie.com/blog/2016-08-06/build-and-multichannel-package-practice/)
+##### 578. [Android 端外推送到底有多烦？](http://gold.xitu.io/post/57a19c012e958a0066715d0c)
+##### 579. [Android打包系列——打包流程梳理](http://mouxuejie.com/blog/2016-08-04/build-and-package-flow-introduction/)
+##### 580. []()
