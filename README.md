@@ -593,4 +593,4 @@
 ##### 577. [Android打包系列——多渠道打包及签名](http://mouxuejie.com/blog/2016-08-06/build-and-multichannel-package-practice/)
 ##### 578. [Android 端外推送到底有多烦？](http://gold.xitu.io/post/57a19c012e958a0066715d0c)
 ##### 579. [Android打包系列——打包流程梳理](http://mouxuejie.com/blog/2016-08-04/build-and-package-flow-introduction/)
-##### 580. []()
+##### 580. [有了这10款逆天级效率工具，每天提前下班2小时!#DEMO8年度产品盘点#](http://www.jianshu.com/p/a3312f1c7068)
