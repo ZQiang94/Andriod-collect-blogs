@@ -617,3 +617,4 @@
 ##### 561. [一个简单，强大的广告活动弹窗控件](https://github.com/yipianfengye/android-adDialog)
 ##### 562. [fir.im Weekly - Mobile developer 利器分享](http://blog.fir.im/fir_im_weekly160805/?hmsr=gold.xitu.io/&utm_medium=gold.xitu.io&utm_source=gold.xitu.io)
 ##### 563. [一款神级选择图片工具，支持所有主流图片缓存框架](http://www.jianshu.com/p/d576cd1bda49)
+##### 564. [Android权限机制，你真的了解吗？](http://mp.weixin.qq.com/s?__biz=MzIxNzEyMzIzOA==&mid=2652313851&idx=1&sn=a15519b65e7bedefbb566fe6d01935cb&scene=4#wechat_redirect)
