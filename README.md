@@ -631,3 +631,4 @@
 ##### 575. [Java基础之-NIO](http://blog.csdn.net/qq_21430549/article/details/52145008)
 ##### 576. [使用 flow.ci 实现 Android自动化测试与持续集成](http://blog.flow.ci/practice_language_android_emulator/?hmsr=gold.xitu.io/&utm_medium=gold.xitu.io&utm_source=gold.xitu.io)
 ##### 577. [利用Android Studio、MAT对Android进行内存泄漏检测](https://github.com/taoweiji/DemoAndroidMemoryLeak)
+##### 578. [Android 开发之 App 启动时间统计](http://www.jianshu.com/p/c967653a9468)
