@@ -3,6 +3,9 @@
 # Andriod-collect-blogs
 记录自己遇到的比较有价值的Android相关的blog</br>[MaHua](http://mahua.jser.me/)是online md编辑器，挺好用。
 ###  随便搞了个基于github的个人blog站点--[ZQiang94.github.io](https://zqiang94.github.io/)
+本是自己记录一些有价值的blog，没成想有不少star的，为了方便查看，等有时间就会进行分类与排版，有比较好的就尽情的砸过来吧！一起完善。
+邮箱：zhangqiang452608069@gmail.com
+QQ:452608069
 
 ##### 1. [如何发现优秀的开源项目？](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662079&idx=1&sn=65605f0d9bd741d38f0b179980dc09f1&scene=23&srcid=0729BwJZYHqM2sAT0szKPXXv#rd) 
 ##### 2. [美团技术团队博客](http://tech.meituan.com/)
@@ -640,3 +643,8 @@
 ##### 584. [十分钟理解Java中的弱引用](http://www.jianshu.com/p/a7aaaf1bd7be)
 ##### 585. [项目中处理android 6.0权限管理问题](http://www.cnblogs.com/androidsuperman/p/5758402.html)
 ##### 586. [详解高速神器python脚步打包android apk，超级快！！（打包系列教程之六）](http://blog.csdn.net/javazejian/article/details/50760590)
+##### 587. [RxAndroid结合Retrofit，看看谁才是最佳拍档！](http://blog.csdn.net/u012702547/article/details/52175520)
+##### 588. [Android自定义控件3——边缘凹凸的卡劵效果View](http://blog.csdn.net/yissan/article/details/51429281)
+##### 589. [Android技术博文](http://mobdevgroup.com/platform/android/article)
+##### 590. [自定义View实战-仿京东首页轮播文字(又名垂直跑马灯)](http://blog.csdn.net/qq_26971803/article/details/51537129)
+##### 591. [Android 进程保活招式大全](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577617&idx=1&sn=623256a2ff94641036a6c9eea17baab8&scene=4#wechat_redirect)
