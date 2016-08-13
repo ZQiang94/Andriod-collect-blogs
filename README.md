@@ -651,3 +651,4 @@
 ##### 592. [Android从零开始：创建样式和主题](http://www.jcodecraeer.com/a/basictutorial/2016/0812/6533.html)
 ##### 593. [ANDROID SDK 源码解析项目](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0726/4529.html)
 ##### 594. [Android Data Binding简明教程](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0812/3293.html)
+##### 595. [［小编历时一月呕心沥血整理，重磅之作］史上最流行的Android组件、工具、框架大全](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547926&idx=1&sn=a26de59d5265beb8417f4a4ff70fb91e&scene=1&srcid=0813wA4x1GDBLE23yjpNScE8#wechat_redirect)<img src="https://github.com/ZQiang94/CardCoupons/blob/master/img_01.png">
