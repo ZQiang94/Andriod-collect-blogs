@@ -8,7 +8,7 @@
 ####QQ:452608069
 
 ##### 1. [如何发现优秀的开源项目？](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662079&idx=1&sn=65605f0d9bd741d38f0b179980dc09f1&scene=23&srcid=0729BwJZYHqM2sAT0szKPXXv#rd) 
-##### 2. [美团技术团队博客](http://tech.meituan.com/)
+##### 2. [［小编历时一月呕心沥血整理，重磅之作］史上最流行的Android组件、工具、框架大全](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547926&idx=1&sn=a26de59d5265beb8417f4a4ff70fb91e&scene=1&srcid=0813wA4x1GDBLE23yjpNScE8#wechat_redirect)<img src="https://github.com/ZQiang94/CardCoupons/blob/master/img_01.png">
 ##### 3. [awesome-github ：为了更好地使用 GitHub](https://gold.xitu.io/entry/56d7a0f31532bc0050741afc)
 ##### 4. [Trinea](http://www.trinea.cn/)
 ##### 5. [最新host](https://raw.githubusercontent.com/racaljk/hosts/master/hosts)
@@ -651,4 +651,3 @@
 ##### 592. [Android从零开始：创建样式和主题](http://www.jcodecraeer.com/a/basictutorial/2016/0812/6533.html)
 ##### 593. [ANDROID SDK 源码解析项目](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0726/4529.html)
 ##### 594. [Android Data Binding简明教程](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0812/3293.html)
-##### 595. [［小编历时一月呕心沥血整理，重磅之作］史上最流行的Android组件、工具、框架大全](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547926&idx=1&sn=a26de59d5265beb8417f4a4ff70fb91e&scene=1&srcid=0813wA4x1GDBLE23yjpNScE8#wechat_redirect)<img src="https://github.com/ZQiang94/CardCoupons/blob/master/img_01.png">
