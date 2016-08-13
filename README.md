@@ -4,8 +4,8 @@
 记录自己遇到的比较有价值的Android相关的blog</br>[MaHua](http://mahua.jser.me/)是online md编辑器，挺好用。
 ###  随便搞了个基于github的个人blog站点--[ZQiang94.github.io](https://zqiang94.github.io/)
 本是自己记录一些有价值的blog，没成想有不少star的，为了方便查看，等有时间就会进行分类与排版，有比较好的就尽情的砸过来吧！一起完善。
-邮箱：zhangqiang452608069@gmail.com
-QQ:452608069
+####邮箱：zhangqiang452608069@gmail.com
+####QQ:452608069
 
 ##### 1. [如何发现优秀的开源项目？](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662079&idx=1&sn=65605f0d9bd741d38f0b179980dc09f1&scene=23&srcid=0729BwJZYHqM2sAT0szKPXXv#rd) 
 ##### 2. [美团技术团队博客](http://tech.meituan.com/)
