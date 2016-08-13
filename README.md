@@ -648,3 +648,6 @@
 ##### 589. [Android技术博文](http://mobdevgroup.com/platform/android/article)
 ##### 590. [自定义View实战-仿京东首页轮播文字(又名垂直跑马灯)](http://blog.csdn.net/qq_26971803/article/details/51537129)
 ##### 591. [Android 进程保活招式大全](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577617&idx=1&sn=623256a2ff94641036a6c9eea17baab8&scene=4#wechat_redirect)
+##### 592. [Android从零开始：创建样式和主题](http://www.jcodecraeer.com/a/basictutorial/2016/0812/6533.html)
+##### 593. [ANDROID SDK 源码解析项目](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0726/4529.html)
+##### 594. [Android Data Binding简明教程](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0812/3293.html)
