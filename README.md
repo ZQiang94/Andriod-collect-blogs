@@ -651,3 +651,4 @@
 ##### 592. [Android从零开始：创建样式和主题](http://www.jcodecraeer.com/a/basictutorial/2016/0812/6533.html)
 ##### 593. [ANDROID SDK 源码解析项目](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0726/4529.html)
 ##### 594. [Android Data Binding简明教程](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0812/3293.html)
+##### 595. [Android应用逆向——分析反编译代码之大神器](http://mp.weixin.qq.com/s?__biz=MzI2NTM1ODY5Mg==&mid=2247483826&idx=2&sn=2e4fc1b51039c5848f4b4150139d19ce&scene=1&srcid=0814j9uNBiUFdG6x8u9iV0qe#rd)
