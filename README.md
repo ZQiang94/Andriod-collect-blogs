@@ -2,7 +2,7 @@
 [![Codewake](https://www.codewake.com/badges/codewake2.svg)](https://www.codewake.com/p/andriod-collect-blogs-7e3b78bf-5c10-4805-9111-a0969eccaac8)
 # Andriod-collect-blogs
 记录自己遇到的比较有价值的Android相关的blog</br>[MaHua](http://mahua.jser.me/)是online md编辑器，挺好用。
-###  随便搞了个基于github的个人blog站点--[ZQiang94.github.io](https://zqiang94.github.io/)
+
 本是自己记录一些有价值的blog，没成想有不少star的，为了方便查看，等有时间就会进行分类与排版，有比较好的就尽情的砸过来吧！一起完善。
 ####邮箱：zhangqiang452608069@gmail.com
 ####QQ:452608069
