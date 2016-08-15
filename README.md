@@ -7,6 +7,7 @@
 ####邮箱：zhangqiang452608069@gmail.com
 ####QQ:452608069
 
+##### 0. [:smile:Android related knowledge points learning records](https://github.com/ZQiang94/StudyRecords)
 ##### 1. [如何发现优秀的开源项目？](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662079&idx=1&sn=65605f0d9bd741d38f0b179980dc09f1&scene=23&srcid=0729BwJZYHqM2sAT0szKPXXv#rd) 
 ##### 2. [［小编历时一月呕心沥血整理，重磅之作］史上最流行的Android组件、工具、框架大全](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649547926&idx=1&sn=a26de59d5265beb8417f4a4ff70fb91e&scene=1&srcid=0813wA4x1GDBLE23yjpNScE8#wechat_redirect)
 ##### 3. [awesome-github ：为了更好地使用 GitHub](https://gold.xitu.io/entry/56d7a0f31532bc0050741afc)
