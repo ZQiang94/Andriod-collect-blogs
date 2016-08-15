@@ -655,3 +655,4 @@
 ##### 596. [Volley学习笔记之简单使用及部分源码详解](http://yongyu.itscoder.com/2016/08/07/yongyu_20160803_volley_use_and_source_code_study/)
 ##### 597. [Android仿美团切换城市](http://blog.csdn.net/dmk877/article/details/49757731)
 ##### 598. [史上最全 Android 面试资料集合](http://www.jianshu.com/p/d1efe2f31b6d)
+##### 599. [android高仿微信表情输入与键盘输入详解](http://blog.csdn.net/javazejian/article/details/52126391)
