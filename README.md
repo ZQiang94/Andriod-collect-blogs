@@ -1,6 +1,6 @@
 [![Codewake](https://www.codewake.com/badges/codewake.svg)](https://www.codewake.com/p/andriod-collect-blogs-7e3b78bf-5c10-4805-9111-a0969eccaac8)
 [![Codewake](https://www.codewake.com/badges/codewake2.svg)](https://www.codewake.com/p/andriod-collect-blogs-7e3b78bf-5c10-4805-9111-a0969eccaac8)
-# Andriod-collect-blogs
+# Android-collect-blogs
 记录自己遇到的比较有价值的Android相关的blog</br>[MaHua](http://mahua.jser.me/)是online md编辑器，挺好用。
 
 本是自己记录一些有价值的blog，没成想有不少star的，为了方便查看，等有时间就会进行分类与排版，有比较好的就尽情的砸过来吧！一起完善。
@@ -655,3 +655,14 @@
 ##### 595. [Android应用逆向——分析反编译代码之大神器](http://mp.weixin.qq.com/s?__biz=MzI2NTM1ODY5Mg==&mid=2247483826&idx=2&sn=2e4fc1b51039c5848f4b4150139d19ce&scene=1&srcid=0814j9uNBiUFdG6x8u9iV0qe#rd)
 ##### 596. [Volley学习笔记之简单使用及部分源码详解](http://yongyu.itscoder.com/2016/08/07/yongyu_20160803_volley_use_and_source_code_study/)
 ##### 597. [Android仿美团切换城市](http://blog.csdn.net/dmk877/article/details/49757731)
+##### 598. [Android自学资源大整合](http://www.jianshu.com/p/9f354b41fb5f)
+##### 599. [更简单的学习Android事件分发](https://github.com/Idtk/Blog/blob/master/Blog/11%E3%80%81TouchEvent.md)
+##### 600. [教你一分钟实现动态模糊效果](http://blog.csdn.net/wl9739/article/details/51955598)
+##### 601. [带你重新认识：Android Splash页秒开 Activity白屏Activity黑屏](http://blog.csdn.net/yanzhenjie1003/article/details/52201896)
+##### 602. [自定义ViewGroup](http://www.jianshu.com/p/fef4c124c39b)
+##### 603. [ android 图片凸出](http://blog.csdn.net/hupei/article/details/52064946)
+##### 604. [ubuntu 14.04下编译android5.1源码](http://www.jianshu.com/p/ceab04226045)
+##### 605. [自定义View强势来袭，用自定义View实现歌词显示控件下篇之自定义LyricView的实现](http://www.jianshu.com/p/576cbf43053e)
+##### 606. [Android MVP+Retrofit+RxJava 实践小结](http://www.diycode.cc/topics/236)
+##### 607. [android：ToolBar详解（手把手教程）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1118/2006.html)
+##### 608. [SQLite数据库框架ORMLite与GreenDao的简单比较](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1127/2066.html)
