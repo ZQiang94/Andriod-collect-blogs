@@ -668,3 +668,8 @@
 ##### 608. [SQLite数据库框架ORMLite与GreenDao的简单比较](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1127/2066.html)
 ##### 609. [Android网络编程（一）HTTP协议原理](http://blog.csdn.net/itachi85/article/details/50982995)
 ##### 610. [An easy way to browse photo(image) for iOS.](https://github.com/iphone5solo/PYPhotoBrowser)
+##### 611. [30分钟精通思维导图](http://www.jianshu.com/p/c77d46d14466)
+##### 612. [Android Log打印的正确姿势](http://hujiandong.com/2016/08/01/android-log-used/)
+##### 613. [Anroid沉浸式状态栏](https://ownwell.github.io/2016/08/11/Anroid%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%8A%B6%E6%80%81%E6%A0%8F/)
+##### 614. [Android 高仿微信支付键盘](http://blog.csdn.net/zuiwuyuan/article/details/52198240)
+##### 615. [聊聊对RxJava与Retrofit的封装](http://www.jianshu.com/p/93f8c9ae8819)
