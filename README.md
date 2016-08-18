@@ -684,3 +684,4 @@
 ##### 624. [App定位和地图的那些坑](http://mp.weixin.qq.com/s?__biz=MzAwMTcwNTE0NA==&mid=2647810370&idx=1&sn=9ca65ab3120b9c249d0cdfbe03882c86&scene=1&srcid=0818pX9aOtHrSf5IkxGbEDiN#rd)
 ##### 625. [Android网络编程（二）HttpClient与HttpURLConnection](http://blog.csdn.net/itachi85/article/details/51010109)
 ##### 626. [使用Intent传递自定义对象的两种实现方式对比：Serializable vs Parcelable](http://24suixinsuoyu.com/2016/04/08/%E4%BD%BF%E7%94%A8Intent%E4%BC%A0%E9%80%92%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AF%B9%E8%B1%A1%E7%9A%84%E4%B8%A4%E7%A7%8D%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F%E5%AF%B9%E6%AF%94%EF%BC%9ASerializable-vs-Parcelable/)
+##### 627. [巧用接口解耦分离实现](http://aigestudio.com/?p=100)
