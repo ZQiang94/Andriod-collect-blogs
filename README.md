@@ -692,3 +692,5 @@
 ##### 632. [Android加载大图不OOM](http://www.cnblogs.com/xurui1995/p/5778803.html)
 ##### 633. [常用的代码片段，不断更新](http://www.jianshu.com/p/f166d3675d65)
 ##### 634. [Android - 完全退出当前应用程序 - 新公司学习到的细节](http://gold.xitu.io/post/57b58483165abd0065d1342d)
+##### 635. [Gradle多渠道打包(动态设定App名称，应用图标，替换常量，更改包名，变更渠道)](http://www.jianshu.com/p/533240d222d3)
+##### 636. [Android Toast花式使用](http://www.jianshu.com/p/5c5c8ee31ddb)
