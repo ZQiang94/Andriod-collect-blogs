@@ -694,3 +694,4 @@
 ##### 634. [Android - 完全退出当前应用程序 - 新公司学习到的细节](http://gold.xitu.io/post/57b58483165abd0065d1342d)
 ##### 635. [Gradle多渠道打包(动态设定App名称，应用图标，替换常量，更改包名，变更渠道)](http://www.jianshu.com/p/533240d222d3)
 ##### 636. [Android Toast花式使用](http://www.jianshu.com/p/5c5c8ee31ddb)
+##### 637. [认清性能问题](http://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=2650610655&idx=1&sn=4f38ef56ff57054ab9745b0725351159#rd)
