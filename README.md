@@ -718,3 +718,4 @@
 ##### 657. [聊聊对 RxJava 与 Retrofit 的封装](http://android.jobbole.com/84198/)
 ##### 658. [再谈android内存泄漏—常见的八种导致 APP 内存泄漏的问题](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548034&idx=1&sn=7aeeecc135c22163e577bd9536a6ed66&scene=1&srcid=0822EknHqYEtw0aVp4BiR8sB#wechat_redirect)
 ##### 659. [让你变懒的 Android Studio Live Templates](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662184&idx=1&sn=5fc27594b4e13a74cde76ed8678a20f1&scene=1&srcid=0822qDgIqptwMXpJUmLrPMRx#wechat_redirect)
+##### 660. [Android 面试题总结之Android 进阶](http://www.androidchina.net/5035.html?sukey=3997c0719f1515200026b6f51000fe3da4dbabeb79a5c48e09b90ed4d181f731ef320bc6043aa08524f60ca7444c63c7)
