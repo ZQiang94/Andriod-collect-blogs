@@ -719,3 +719,7 @@
 ##### 658. [再谈android内存泄漏—常见的八种导致 APP 内存泄漏的问题](http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548034&idx=1&sn=7aeeecc135c22163e577bd9536a6ed66&scene=1&srcid=0822EknHqYEtw0aVp4BiR8sB#wechat_redirect)
 ##### 659. [让你变懒的 Android Studio Live Templates](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662184&idx=1&sn=5fc27594b4e13a74cde76ed8678a20f1&scene=1&srcid=0822qDgIqptwMXpJUmLrPMRx#wechat_redirect)
 ##### 660. [Android 面试题总结之Android 进阶](http://www.androidchina.net/5035.html?sukey=3997c0719f1515200026b6f51000fe3da4dbabeb79a5c48e09b90ed4d181f731ef320bc6043aa08524f60ca7444c63c7)
+##### 661. [Freeline - Android平台上的秒级编译方案](https://yq.aliyun.com/articles/59177?spm=5176.100238.goodcont.51.bedUuR)
+##### 662. [Android 开发之 MP4 文件转 GIF 文件详解](http://www.jianshu.com/p/cc94213ec4ab)
+##### 663. [安卓学习笔记(GcsSloop/AndroidNote)](https://github.com/GcsSloop/AndroidNote)
+##### 664. [《App研发录》第1章 重构，夜未眠](http://www.jianshu.com/p/5e2d13596c15)
