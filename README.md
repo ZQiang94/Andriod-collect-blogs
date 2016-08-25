@@ -749,3 +749,4 @@
 ##### 689. [Mac上的反编译工具](https://github.com/Jermic/Android-Crack-Tool)
 ##### 690. [墨香带你学Launcher之（四）-应用安装、更新、卸载时的数据加载](http://www.codemx.cn/2016/08/21/%E5%A2%A8%E9%A6%99%E5%B8%A6%E4%BD%A0%E5%AD%A6Launcher%E4%B9%8B-%E5%BA%94%E7%94%A8%E5%AE%89%E8%A3%85%E3%80%81%E6%9B%B4%E6%96%B0%E3%80%81%E5%8D%B8%E8%BD%BD%E6%97%B6%E7%9A%84%E6%95%B0%E6%8D%AE%E5%8A%A0%E8%BD%BD/)
 ##### 691. [为WebView中的Java与JavaScript提供【安全可靠】的多样互通方案](https://github.com/pedant/safe-java-js-webview-bridge)
+##### 692. [程序猿捡到一部Android手机是无节操的破解还是高尚的归还？](http://www.wjdiankong.cn/%E7%A8%8B%E5%BA%8F%E7%8C%BF%E6%8D%A1%E5%88%B0%E4%B8%80%E9%83%A8android%E6%89%8B%E6%9C%BA%E6%98%AF%E6%97%A0%E8%8A%82%E6%93%8D%E7%9A%84%E7%A0%B4%E8%A7%A3%E8%BF%98%E6%98%AF%E9%AB%98%E5%B0%9A%E7%9A%84/)
