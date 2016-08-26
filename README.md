@@ -751,3 +751,4 @@
 ##### 691. [为WebView中的Java与JavaScript提供【安全可靠】的多样互通方案](https://github.com/pedant/safe-java-js-webview-bridge)
 ##### 692. [程序猿捡到一部Android手机是无节操的破解还是高尚的归还？](http://www.wjdiankong.cn/%E7%A8%8B%E5%BA%8F%E7%8C%BF%E6%8D%A1%E5%88%B0%E4%B8%80%E9%83%A8android%E6%89%8B%E6%9C%BA%E6%98%AF%E6%97%A0%E8%8A%82%E6%93%8D%E7%9A%84%E7%A0%B4%E8%A7%A3%E8%BF%98%E6%98%AF%E9%AB%98%E5%B0%9A%E7%9A%84/)
 ##### 693. [Android targetSdkVersion 原理](http://www.race604.com/android-targetsdkversion/)
+##### 694. [Android打包那些事](http://mp.weixin.qq.com/s?__biz=MzI3MDE0NzYwNA==&mid=2651433753&idx=1&sn=8040b53d5233db87e86f458ecde728d6&scene=0#wechat_redirect)
