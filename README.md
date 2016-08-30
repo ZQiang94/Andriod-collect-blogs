@@ -759,3 +759,5 @@
 ##### 699. [结合XrecyclerView 和BaseRecyclerViewAdapterHelper更加的方便的调用RecyclerView的下拉刷新跟上拉加载](https://github.com/supercwn/SuperRecycleView)
 ##### 701. [Android下多彩的StatusView的实现](http://ownwell.github.io/2016/08/26/android-status-bar/)
 ##### 702. [Android 内存泄漏总结](https://yq.aliyun.com/articles/3009)
+##### 703. [知乎和简书的夜间模式实现套路](http://www.jianshu.com/p/3b55e84742e5)
+##### 704. [Material之Behavior实现支付宝密码弹窗 仿淘宝/天猫商品属性选择](http://gold.xitu.io/post/57bfd4c4efa631005aa5b530)
