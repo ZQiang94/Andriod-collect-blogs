@@ -110,7 +110,7 @@
 ##### [带你使用SwipeBackLayout和SwipeBackActivity](http://www.jianshu.com/p/92b884d8471c)
 ##### [Android去除烦人的默认闪退Dialog](http://sixwolf.net/blog/2016/04/11/Android%E5%8E%BB%E9%99%A4%E7%83%A6%E4%BA%BA%E7%9A%84%E9%97%AA%E9%80%80%E5%BC%B9%E7%AA%97/)
 ##### [了解 Android API 中的 SharedPreferences](http://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=2652261666&idx=1&sn=9cc50beed8c8ef601c11755f4740e456&scene=0#wechat_redirect%EF%BC%89)
-##### {混淆}##### 125. [5分钟搞定android混淆](http://www.jianshu.com/p/f3455ecaa56e)
+##### [5分钟搞定android混淆](http://www.jianshu.com/p/f3455ecaa56e)
 ##### [TextView实战之你真的懂我么？](http://blog.csdn.net/sdkfjksf/article/details/51317204)
 ##### [手动实现布局过渡效果](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0629/3119.html)
 ##### [SQL基础语句汇总](http://www.jcodecraeer.com/a/shujuku/2015/1024/3619.html)
