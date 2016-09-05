@@ -316,7 +316,7 @@
 
 
 
-[MVP]
+#### [MVP]
 ##### [Android官方MVP架构示例项目解析](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403539764&idx=1&sn=d30d89e6848a8e13d4da0f5639100e5f#rd)
 ##### [MVP 实现的 Android 基础项目架构](https://github.com/xitu/gold-miner/blob/master/TODO/android-basic-project-architecture-for-mvp.md)
 ##### [如何设计MVP中的Presentation层](http://blog.chengdazhi.com/index.php/115)
