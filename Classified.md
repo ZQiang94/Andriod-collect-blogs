@@ -5,7 +5,7 @@
 [Retrofit](#retrofit)&emsp;&emsp;
 [打包](#dabao)&emsp;&emsp;
 [插件化](#chajianhua)&emsp;&emsp;
-[GitHub](#githu)&emsp;&emsp;
+[GitHub](#github)&emsp;&emsp;
 [学习网站](#xuexiwangzhan)&emsp;&emsp;
 [后台接口](#houtaijiekou)&emsp;&emsp;
 [热修复](#rexiufu)&emsp;&emsp;
