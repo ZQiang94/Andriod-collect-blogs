@@ -31,7 +31,7 @@
 [动画](#动画)&emsp;&emsp;
 [打包](#打包)&emsp;&emsp;
 [Gradle](#Gradle)&emsp;&emsp;
-[Dagger2](#Dagger2)&emsp;&emsp;
+[Dagger2](#1)&emsp;&emsp;
 [Chrome](#Chrome)&emsp;&emsp;
 [架构演进](#架构演进)&emsp;&emsp;
 [Java](#Java)&emsp;&emsp;
@@ -290,8 +290,7 @@
 [Gradle]
 ##### [Gradle打包APK的一些小技巧和productFlavor配置](http://zheteng.me/android/2016/02/29/flavors-with-gradle/)
 
-
-<span id="quanxian">[Dagger2]</span>
+<h2 id='1'>Dagger2</h2>
 ##### [从零开始的Android新项目4 - 篇](http://blog.zhaiyifan.cn/2016/03/27/android-new-project-from-0-p4/)
 
 
