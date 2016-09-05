@@ -29,7 +29,7 @@
 
 
 [RX系列]
-##### 7. [从案例学习RxAndroid](http://blog.chengdazhi.com/index.php/140)
+##### [从案例学习RxAndroid](http://blog.chengdazhi.com/index.php/140)
 ##### [RxJava常见的使用场景总结](https://github.com/THEONE10211024/RxJavaSamples)
 ##### [ReactiveX文档中文翻译](https://mcxiaoke.gitbooks.io/rxdocs/content/)
 ##### [使用 RxJava 封装现有的库](https://github.com/xitu/gold-miner/blob/master/TODO/wrapping-existing-libraries-with-rxjava.md)
