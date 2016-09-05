@@ -1,6 +1,6 @@
 [学习笔记](#学习笔记)&emsp;&emsp;
 [开源工程](#开源工程)&emsp;&emsp;
-[权限](#权限)&emsp;&emsp;
+[权限](#quanxian)&emsp;&emsp;
 [RX系列](#RX系列)&emsp;&emsp;
 [Retrofit](#Retrofit)&emsp;&emsp;
 [打包](#打包)&emsp;&emsp;
@@ -71,7 +71,7 @@
 ##### [FanMenu](https://github.com/BCGDV-ASIA/android-widget-fanmenu)
 
 
-[权限]
+<span id="quanxian">[权限]</span>
 ##### [深入浅出Android权限（一）](http://imxie.cc/2016/02/26/%E3%80%90%E8%AF%91%E3%80%91%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAAndroid%E6%9D%83%E9%99%90%EF%BC%88%E4%B8%80%EF%BC%89/)
 ##### [深入浅出Android权限（二）](http://imxie.cc/2016/02/29/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAAndroid%E6%9D%83%E9%99%90%EF%BC%88%E4%BA%8C%EF%BC%89/)
 ##### [聊一聊Android 6.0的运行时权限](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/)
@@ -316,7 +316,7 @@
 
 
 
-#### [MVP]
+[MVP]
 ##### [Android官方MVP架构示例项目解析](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403539764&idx=1&sn=d30d89e6848a8e13d4da0f5639100e5f#rd)
 ##### [MVP 实现的 Android 基础项目架构](https://github.com/xitu/gold-miner/blob/master/TODO/android-basic-project-architecture-for-mvp.md)
 ##### [如何设计MVP中的Presentation层](http://blog.chengdazhi.com/index.php/115)
