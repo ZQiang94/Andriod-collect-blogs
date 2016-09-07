@@ -57,8 +57,8 @@
 [Gson](#gson)&emsp;&emsp;
 [混淆](#hunxiao)&emsp;&emsp;
 [图片加载](#tupianjiazai)&emsp;&emsp;
-[View](#view)&emsp;&emsp;
-[单位](#danwei)&emsp;&emsp;
+[View&UI](#view)&emsp;&emsp;
+[单位](#fanwei)&emsp;&emsp;
 [博客周刊](#bokezhoukan)&emsp;&emsp;
 [JNI](#jni)&emsp;&emsp;
 [逆向](#nixiang)&emsp;&emsp;
@@ -74,7 +74,17 @@
 [二维码](#erweima)&emsp;&emsp;
 [缓存](#huancun)&emsp;&emsp;
 [RESTful](#restful)&emsp;&emsp;
-[host](#host)
+[host](#host)&emsp;&emsp;
+[WEEX](weex)&emsp;&emsp;
+[so](so)&emsp;&emsp;
+[adb](adb)&emsp;&emsp;
+[直播&视频](zhibo)&emsp;&emsp;
+[跳转](tiaozhuan)&emsp;&emsp;
+[Behavior](behavior)&emsp;&emsp;
+[长连接](changlianjie)&emsp;&emsp;
+[第三方SDK接入](disanfang)&emsp;&emsp;
+[Data Binding](databinding)&emsp;&emsp;
+[屏幕适配](pingmushipei)&emsp;&emsp;
 
 
 
@@ -92,6 +102,11 @@
 
 
 <h5 id='kaiyuangongcheng'>开源工程</h5>
+##### [github项目解析（五）-->android日志框架](http://blog.csdn.net/qq_23547831/article/details/51707796)
+##### [分享一个基于MVP+Retrofit+RxJava+MaterialDesign的App](http://blog.csdn.net/sdkfjksf/article/details/51889828)
+##### [高逼格，超简单，实现App自动更新，一个方法搞定](http://blog.csdn.net/shan_yao/article/details/51881913)
+##### [一款音乐播放器 Music Player: From UI Proposal to Code](https://github.com/andremion/Music-Player)
+##### [来，谷歌安卓浏览器源码就在这！](http://blog.csdn.net/rain_butterfly/article/details/51870727)
 ##### [Android快速实现文件下载（只有4行代码）](http://www.jianshu.com/p/46fd1c253701)
 ##### [酷炫的Activity切换动画，打造更好的用户体验](http://blog.csdn.net/huachao1001/article/details/51659963)
 ##### [打造浪漫的Android表白程序](http://blog.csdn.net/huachao1001/article/details/51489582)
@@ -117,9 +132,11 @@
 ##### [QingtingBannerView](https://github.com/JeasonWong/QingtingBannerView)
 ##### [app动态引导页的制作](http://blog.csdn.net/qq_31530015/article/details/51302784)
 ##### [一个支持 url 打开 activity 的开源库](https://github.com/mzule/ActivityRouter)
+##### [自动更新，一个方法搞定](http://blog.csdn.net/shan_yao/article/details/51691902)
 
 
 <h5 id='quanxian'>权限</h5>
+##### [突破小米悬浮窗权限控制--不需要权限的悬浮窗](http://blog.csdn.net/xyq046463/article/details/51840586)
 ##### [深入浅出Android权限（一）](http://imxie.cc/2016/02/26/%E3%80%90%E8%AF%91%E3%80%91%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAAndroid%E6%9D%83%E9%99%90%EF%BC%88%E4%B8%80%EF%BC%89/)
 ##### [深入浅出Android权限（二）](http://imxie.cc/2016/02/29/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAAndroid%E6%9D%83%E9%99%90%EF%BC%88%E4%BA%8C%EF%BC%89/)
 ##### [聊一聊Android 6.0的运行时权限](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/)
@@ -138,6 +155,7 @@
 ##### [Retrofit2与RxJava用法解析](http://www.cxbiao.com/2016/05/14/Retrofit2%E4%B8%8ERxJava%E7%94%A8%E6%B3%95%E8%A7%A3%E6%9E%90/)
 ##### [RxJava + Retrofit 的实际应用场景](http://www.jianshu.com/p/27cd7ecf3250)
 ##### [Android MVP+Retrofit+RxJava实践小结](http://wuxiaolong.me/2016/06/12/mvpRetrofitRxjava/)
+##### [RxLifecycle源码解析－当Activity被destory时自动停掉网络请求](https://wingjay.com/2016/07/14/RxLifecycle%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%8D%E5%BD%93Activity%E8%A2%ABdestory%E6%97%B6%E8%87%AA%E5%8A%A8%E6%9A%82%E5%81%9C%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82/)
 
 <h5 id='retrofit'>Retrofit</h5>
 ##### [Android Retrofit 2.0 使用-补充篇](http://mp.weixin.qq.com/s?__biz=MzI4MzE2MTQ5Mw==&mid=2649752178&idx=1&sn=0f1d0836ce04ed12fafc89b464c2a131#rd)
@@ -160,6 +178,7 @@
 
 <h5 id='chajianhua'>插件化</h5>
 ##### [Android插件化开发](http://www.androidblog.cn/index.php/Index/detail/id/16#)
+##### [Android组件化和插件化开发](http://dahei.me/2016/06/30/Android%E7%BB%84%E4%BB%B6%E5%8C%96%E5%92%8C%E6%8F%92%E4%BB%B6%E5%8C%96%E5%BC%80%E5%8F%91/)
 
 
 <h5 id='github'>GitHub</h5>
@@ -171,6 +190,7 @@
 ##### [我的开源项目从0到1024的过程](http://www.jianshu.com/p/f2483bd8da43)
 ##### [Facebook开源软件列表](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597383&idx=1&sn=a867ee13f294d38d02313a4c58d3da48&scene=1&srcid=06056GdF0vD6Jp3k7AfdizSn&from=groupmessage&isappinstalled=0#wechat_redirect)
 ##### [那些酷炫的RecyclerView开源库整理](http://www.jianshu.com/p/154891851fe2)
+##### [从0开始学习 GitHub 系列之「团队合作利器 Branch」](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661978&idx=1&sn=2f5329f5b2bfda7050822cc5e3a4f03f#rd)
 
 
 
@@ -199,12 +219,14 @@
 ##### [从Instant-Run出发，谈谈Android上的热修复](http://zjutkz.net/2016/05/10/%E4%BB%8EInstant-Run%E5%87%BA%E5%8F%91%EF%BC%8C%E8%B0%88%E8%B0%88Android%E4%B8%8A%E7%9A%84%E7%83%AD%E4%BF%AE%E5%A4%8D/)
 ##### [AndFix热修复 —— 实战与源码解析](http://www.cnblogs.com/soaringEveryday/p/5338214.html)
 ##### [第34期：Android热修复技术专题：来自微信、淘宝、支付宝、QQ空间的热修复方案](https://github.com/DiyCodes/code_news/blob/master/dialy_news/2016/06/%E7%AC%AC34%E6%9C%9F%EF%BC%9AAndroid%E7%83%AD%E4%BF%AE%E5%A4%8D%E6%8A%80%E6%9C%AF%E4%B8%93%E9%A2%98%EF%BC%9A%E6%9D%A5%E8%87%AA%E5%BE%AE%E4%BF%A1%E3%80%81%E6%B7%98%E5%AE%9D%E3%80%81%E6%94%AF%E4%BB%98%E5%AE%9D%E3%80%81QQ%E7%A9%BA%E9%97%B4%E7%9A%84%E7%83%AD%E4%BF%AE%E5%A4%8D%E6%96%B9%E6%A1%88.md)
-
+##### [微信 Android 热补丁实践演进之路](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577297&idx=2&sn=f7dab65e2696aa9f9fda7102e91e7fcb&scene=0#wechat_redirect)
+##### [Android 热修复其实很简单](http://blog.csdn.net/qq_31530015/article/details/51785228)
 
 <h5 id='reactnative'>React Native</h5>
 ##### [React Native系列blog](http://www.lcode.org/react-native-source-hacker/)
 ##### [React Native 实例 - BBC新闻客户端](http://www.wangchenlong.org/2016/05/07/1605/071-rn-bbc-news/)
 ##### [React Native开源项目-公司移动OA办公客户端](http://mp.weixin.qq.com/s?__biz=MzA4OTc4MTM0OA==&mid=2650358145&idx=1&sn=09852c1d27461368afa54f6408549180#rd)
+##### [22 个优质的 React 开源项目](https://xituqu.com/201.html)
 
 
 
@@ -218,6 +240,7 @@
 ##### [Android Material Design 兼容库的使用详解](http://www.jianshu.com/p/1e6eed09d48b)
 ##### [Material Design技术分享](https://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231829&idx=1&sn=2418c741e7f0e41f6ac4fff4dc2de6f0&scene=1&srcid=0526kJT3uB1vIPjVXTVrSKjW&pass_ticket=muxDwCVjxMK%2Fz1ncol%2B4QyK94pZsvdn%2FSA4JigA6HWU1Hf%2Fr6BUURvZ002TBW6Oq#rd)
 ##### [Android Material Design系列之Toolbar](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057635&idx=1&sn=bc8ea475db4f215226367eed71105f35&scene=0#wechat_redirect)
+##### [最能解决你的痛点问题，也是你最需要的，尽在Material Design 系列这篇](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057738&idx=1&sn=f0b212bfe3343b8f707f32bfefbbda0b#wechat_redirect)
 
 
 <h5 id='dianliangyouhua'>电量优化</h5>
@@ -229,6 +252,11 @@
 ##### [有关WebView的一些使用方法](http://www.36nu.com/post/154.html)
 
 <h5 id='tips'>Tips</h5>
+##### [ Android CoordinatorLayout、AppBarLayout、CollapsingToolbarLayout、Toolbar等的说明和使用](http://blog.csdn.net/amazing7/article/details/51918623)
+##### [Android中EditText焦点问题](http://www.jianshu.com/p/3d31d681f4bc)
+##### [Android 极简反射教程及应用示例](http://gold.xitu.io/post/5787a4e7d342d300589f46a5)
+##### [CoordinatorLayout的使用如此简单](http://blog.csdn.net/huachao1001/article/details/51554608)
+##### [Android 开发者选项详述](http://www.woaitqs.cc/android/2016/06/28/android-developer-options.html)
 ##### [由浅入深全面剖析ThreadLocal](http://blog.csdn.net/luoyanglizi/article/details/51510233)
 ##### [打造属于你的LayoutManager](http://blog.csdn.net/huachao1001/article/details/51594004#rd)
 ##### [我们的 Android 可以用到这些新功能啦](http://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652038686&idx=1&sn=85dee8969f67ffd4b9129876e35acdc5&scene=0#wechat_redirect)
@@ -278,7 +306,10 @@
 ##### [Android常用Manager](http://www.jianshu.com/p/10a72ee2bb84)
 ##### [99%的人都理解错了HTTP中GET与POST的区别](http://mp.weixin.qq.com/s?__biz=MzI3NzIzMzg3Mw==&mid=100000054&idx=1&sn=71f6c214f3833d9ca20b9f7dcd9d33e4#rd)
 ##### [你必须弄懂的Intent Filter匹配规则](http://blog.csdn.net/mynameishuangshuai/article/details/51673273)
-
+##### [安卓Android轻松完成支付宝支付教程](http://blog.csdn.net/u013003052/article/details/51838224)
+##### [Android必知必会-长按返回健退出](http://gold.xitu.io/post/577bc3f3a3413100618fb6c9)
+##### [Android中优雅的退出程序](http://hjxandhmr.github.io/2016/06/29/Android-Elegance-ExitActivity/)
+##### [探究android:largeHeap](http://outofmemory.cn/android/android-largeHeap)
 
 
 <h5 id='listview'>ListView</h5>
@@ -286,6 +317,9 @@
 ##### [一个很赞的RecyclerView Adapter辅助类](http://droidyue.com/blog/2016/05/09/baserecyclerviewadapterhelper/)
 ##### [简约高效的动效列表设计：一分钟搞定Android列表常见需求(原创文章)](http://www.zcool.com.cn/article/ZNDA4OTky.html)
 ##### [SmartHeaderFooterRecyclerview](https://github.com/songhanghang/Smart-HeaderFooter-RecyclerView)
+##### [这是一篇Android RecyclerView使用介绍哦](http://www.jianshu.com/p/12ec590f6c76)
+##### [自定义WaveProgressView满足你所有水波纹加载需求](http://blog.csdn.net/Amazing7/article/details/51855165)
+
 <h5 id='sql'>SQL</h5>
 ##### [SQL基础语句汇总](http://www.jcodecraeer.com/a/shujuku/2015/1024/3619.html)
 
@@ -293,13 +327,13 @@
 ##### [非常全面的Linux知识点总结](http://www.codeceo.com/article/linux-tips.html)
 ##### [我是如何学习Linux的](https://www.sdk.cn/news/3230)
 ##### [Android RecyclerView 顶部悬浮实现](http://www.jianshu.com/p/c596f2e6f587)
-
+##### [Linux中查找命令总结](http://www.36nu.com/post/124.html)
 
 
 <h5 id='danyuanceshi'>单元测试</h5>
 ##### [Android 单元测试: 首先，从是什么开始](https://segmentfault.com/a/1190000004930175)
 ##### [解读Android官方MVP项目单元测试](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0425/4178.html)
-
+##### [在Android Studio中进行单元测试和UI测试](http://www.jianshu.com/p/03118c11c199)
 
 <h5 id='toolbar'>Toolbar</h5>
 ##### [Android开发：最详细的 Toolbar 开发实践总结](http://www.jianshu.com/p/79604c3ddcae)
@@ -308,8 +342,10 @@
 ##### [Android键盘面板冲突 布局闪动处理方案](https://github.com/Jacksgong/JKeyboardPanelSwitch)
 ##### [Activity启动后EditText是否自动弹出输入法虚拟键盘的问题](http://mafei.me/2016/02/27/Activity%E5%90%AF%E5%8A%A8%E5%90%8EEditText%E6%98%AF%E5%90%A6%E8%87%AA%E5%8A%A8%E5%BC%B9%E5%87%BA%E8%BE%93%E5%85%A5%E6%B3%95%E8%99%9A%E6%8B%9F%E9%94%AE%E7%9B%98%E7%9A%84%E9%97%AE%E9%A2%98/)
 ##### [彻底搞定Android开发中软键盘的常见问题](http://blog.csdn.net/mynameishuangshuai/article/details/51567357)
+##### [优雅的方式解决软键盘遮挡按钮](http://www.jianshu.com/p/49efa382352a)
 
 <h5 id='androidstadio'>Android Studio</h5>
+##### [Android Studio Plugin is too old、Gradle version 2.10 is required问题解决方法](http://yanziyu.top/2016/03/21/as-issue/)
 ##### [Android Studio 2.0 稳定版 新特性简介（中文）](http://chinagdg.org/2016/04/android-studio-2-0/)
 ##### [配置你的 Android Studio](http://gold.xitu.io/entry/570b79f071cfe4005fa5cda5)
 ##### [10个你可能不知道的 Android Studio技巧](http://www.jcodecraeer.com/a/anzhuokaifa/Android_Studio/2016/0424/4172.html)
@@ -317,6 +353,9 @@
 ##### [AndroidStudio上面最好用的插件](http://www.jianshu.com/p/d76b60a3883d)
 ##### [Android必知必会-Android Studio修改包名](http://blog.csdn.net/ys743276112/article/details/51684294)
 ##### [Android Studio必备插件](http://hjxandhmr.github.io/2016/06/21/AndroidStudio-Plug/)
+##### [在Android Studio中进行单元测试和UI测试](http://www.jianshu.com/p/03118c11c199)
+##### [Android Studio插件整理](https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/)
+##### [你所不知道的Android Studio调试技巧](http://www.jianshu.com/p/011eb88f4e0d)
 
 <h5 id='wangzhandajian'>网站搭建</h5>
 ##### [创建GitHub技术博客全攻略](http://blog.csdn.net/renfufei/article/details/37725057/)
@@ -346,12 +385,17 @@
 ##### [Android面试后的一些总结](http://kymjs.com/code/2016/03/08/01/)
 ##### [Android 面试知识库](https://github.com/GeniusVJR/LearningNotes)
 ##### [Android 名企面试题及涉及知识点整理](https://github.com/fanrunqi/AndroidInterview)
+##### [一个五年Android 开发者百度、阿里、聚美、映客的面试心经](http://diycode.cc/topics/165)
+##### [Android 面试要点](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820648&idx=1&sn=cb9ee924f2ded3358dd6c256803cc687&scene=1&srcid=0715ycUxC275Cz3K7qlmxUkk#wechat_redirect)
+##### [安卓面试题：1-关于Activity](http://www.iwfu.me/2016/07/17/%E5%AE%89%E5%8D%93%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A1-%E5%85%B3%E4%BA%8Eactivity/)
 
 <h5 id='okhttp'>OkHttp</h5>
 ##### [OkHttp使用教程](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0106/2275.html)
 ##### [如何更高效地使用 OkHttp](http://brucezz.github.io/articles/2016/02/21/effective-okhttp/)
 ##### [OkHttp官方教程解析-彻底入门OkHttp使用](http://blog.csdn.net/mynameishuangshuai/article/details/51303446)
 ##### [OkHttpUtils一个专注于让网络请求更简单的框架](http://www.jianshu.com/p/4c17956fe3b4)
+##### [OKHttp源码浅析与最佳实践](http://www.jianshu.com/p/64e256c1dbbf)
+##### [拆轮子系列：拆 OkHttp](http://blog.piasy.com/2016/07/11/Understand-OkHttp/)
 
 
 <h5 id='jiagou'>架构</h5>
@@ -362,7 +406,9 @@
 ##### [从零开始的Android新项目1 - 架构搭建篇](http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p1/)
 ##### [Android应用架构演变](http://www.jianshu.com/p/8ca27934c6e6)
 ##### [选择恐惧症的福音！教你认清MVC，MVP和MVVM](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0414/4143.html)
-
+##### [Android 架构资源整理](https://github.com/AlanCheen/Android-Resources/blob/master/Architecture.md)
+##### [安卓应用架构续-Android 中构建快速可靠的 UI 测试](http://www.jianshu.com/p/f64c5976ac99)
+##### [HermesEventBus-饿了么开源的Android跨进程事件分发框架](https://elelogistics.github.io/2016/07/13/HermesEventBus-%E4%B8%80%E7%A7%8D%E6%96%B0%E7%9A%84Android%E8%B7%A8%E8%BF%9B%E7%A8%8B%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E6%A1%86%E6%9E%B6/)
 
 <h5 id='donghua'>动画</h5>
 ##### [如何学习 Android Animation？](https://segmentfault.com/a/1190000004354609)
@@ -374,12 +420,14 @@
 ##### [Gradle打包APK的一些小技巧和productFlavor配置](http://zheteng.me/android/2016/02/29/flavors-with-gradle/)
 ##### [知道Android 中Gradle 的这些技巧，提升编译构建速度](http://tikitoo.github.io/2016/05/26/android-studio-gradle-build-run-faster/)
 ##### [ Android应用开发编译框架流程与IDE及Gradle概要](http://blog.csdn.net/yanbober/article/details/49408489)
-
+##### [给 Android 初学者的 Gradle 知识普及](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661971&idx=1&sn=3fb69537bbc5fbb14d152ba6381c3b83#rd)
+##### [Android 开发你需要了解的Gradle配置](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662016&idx=1&sn=a3c338766b6ea9de654b1a011dcf5b3e#rd)
 
 
 <h5 id='dagger2'>Dagger2</h5>
 ##### [从零开始的Android新项目4 - 篇](http://blog.zhaiyifan.cn/2016/03/27/android-new-project-from-0-p4/)
-
+##### [Dagger2使用详解](http://zpayh.xyz/2016/07/07/Dagger2%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3/)
+##### [Google官方MVP+Dagger2架构详解【从零开始搭建android框架系列（6）】](http://www.jianshu.com/p/01d3c014b0b1)
 
 <h5 id='chrome'>Chrome</h5>
 ##### [私人珍藏的Chrome插件，吐血推荐](http://stormzhang.com/devtools/2016/01/15/google-chrome-extension/)
@@ -387,6 +435,7 @@
 
 <h5 id='jiagouyanjin'>架构演进</h5>
 ##### [微信Android客户端架构演进之路](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=401921778&idx=1&sn=f05433ff53199999f9dc2acb3b249ac3&scene=21#wechat_redirect)
+##### [京东咚咚架构演进](http://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=401186254&idx=1&sn=1b3c81386973c99cad99079fcd6be6e3#rd)
 
 
 <h5 id='java'>Java</h5>
@@ -402,6 +451,7 @@
 ##### [为什么说DOM操作很慢](https://leozdgao.me/why-dom-slow/)
 ##### [第4章 类和接口](http://mp.weixin.qq.com/s?__biz=MzIxNDE1NjQ2Mw==&mid=2649872269&idx=1&sn=3e96d3e374e3c958041383f653d8b2ab#rd)
 ##### [【深入理解Java虚拟机】垃圾回收机制](http://blog.csdn.net/shakespeare001/article/details/51749788)
+##### [Java对象锁和类锁全面解析（多线程synchronized关键字）](http://www.importnew.com/20444.html)
 
 <h5 id='mvp'>MVP</h5>
 ##### [Android官方MVP架构示例项目解析](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403539764&idx=1&sn=d30d89e6848a8e13d4da0f5639100e5f#rd)
@@ -412,6 +462,9 @@
 ##### [T-MVP：泛型深度解耦下的MVP大瘦身](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0513/4260.html)
 ##### [Android MVP+Retrofit+RxJava实践小结](http://wuxiaolong.me/2016/06/12/mvpRetrofitRxjava/)	
 ##### [android MVP模式介绍与实战](http://dahei.me/2016/06/22/mvp/android%20MVP%E6%A8%A1%E5%BC%8F%E4%BB%8B%E7%BB%8D%E4%B8%8E%E5%AE%9E%E6%88%98/)
+##### [（Basic框架）Android中实现mvp模式的新思路](http://www.jianshu.com/p/31a202c0c264)
+
+
 
 <h5 id='zhengzebiaodashi'>正则表达式</h5>
 ##### [知道这20个正则表达式，能让你少写1000行代码](http://www.jianshu.com/p/e7bb97218946)
@@ -438,6 +491,10 @@
 ##### [从0开始学习 GitHub 系列之「Git 进阶」](https://zhuanlan.zhihu.com/p/21367056)
 
 <h5 id='zatan'>杂谈</h5>
+##### [魔都，3年，程序员到CTO](http://blog.csdn.net/cym492224103/article/details/51915711)
+##### [我的编程之路——知识管理与知识体系](https://segmentfault.com/a/1190000004612590)
+##### [国内Top500Android应用分析报告](http://mp.weixin.qq.com/s?__biz=MzA5OTMxMjQzMw==&mid=2648112527&idx=1&sn=b23c1b5f3e32e343ad96d705bd4d63ff&scene=1&srcid=0711SVtLTxYXurfDvMqW2LJi#wechat_redirect)
+##### [码农和英语](http://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665513182&idx=1&sn=927a7066c46f854baa5b07cf0fffd654#rd)
 #####  [让console充满情怀](https://aotu.io/notes/2016/06/22/An-interesting-experience-on-console/?o2src=juejin&o2layout=compat)
 ##### [2016这些Android技术会很火](http://mp.weixin.qq.com/s?__biz=MzAwNjE5MzA0NQ==&mid=402079389&idx=1&sn=6823b23c996c5c54c2bfaa03961d06ff&scene=0#wechat_redirect)
 ##### [怎么做好互联网公司的技术团队负责人？](http://www.jianshu.com/p/463528c4ec91)
@@ -454,7 +511,7 @@
 ##### [Facebook开源软件列表](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659597383&idx=1&sn=a867ee13f294d38d02313a4c58d3da48&scene=1&srcid=06056GdF0vD6Jp3k7AfdizSn&from=groupmessage&isappinstalled=0#wechat_redirect)
 ##### [android apk--程序发布前的准备](http://www.cnblogs.com/androidsuperman/p/4396889.html)
 ##### [Anroid搭建一个局域网Web服务器](http://www.yanzhenjie.com/andserver.html)
-
+##### [最美应用－从 Android 研发工程师的角度 の 最美时光](http://mp.weixin.qq.com/s?__biz=MzAwMTYwNzE2Mg==&mid=2651036618&idx=1&sn=d8c00395c9daadef4faccef965ee527f#rd)
 
 
 <h5 id='mvc'>MVC</h5>
@@ -479,6 +536,7 @@
 ##### [Android开发中，那些让你相见恨晚的方法、类或接口](http://liukun.engineer/2016/04/11/Android%E5%BC%80%E5%8F%91%E4%B8%AD%EF%BC%8C%E9%82%A3%E4%BA%9B%E8%AE%A9%E4%BD%A0%E7%9B%B8%E8%A7%81%E6%81%A8%E6%99%9A%E7%9A%84%E6%96%B9%E6%B3%95%E3%80%81%E7%B1%BB%E6%88%96%E6%8E%A5%E5%8F%A3/)
 ##### [个人收藏的Android常用工具类](https://github.com/WuXiaolong/AndroidUtils)
 ##### [2016年度最受欢迎的100个 Java 库](https://segmentfault.com/a/1190000005663071)
+##### [Android 常用工具类](http://hjxandhmr.github.io/2016/04/19/Android-Utils/)
 
 <h5 id='youhua'>优化</h5>
 ##### [Android进阶之路——安卓编程规范](http://www.jianshu.com/p/fbf9ea4b9d76#rd)
@@ -486,6 +544,10 @@
 ##### [40条Android开发优化建议](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=504089716&idx=4&sn=34c1dc25e3d68e19b84008eeb1ec0547#rd)
 ##### [Android客户端性能优化（魅族资深工程师毫无保留奉献）](http://blog.tingyun.com/web/article/detail/155)
 ##### [Android网络操作和优化相关](http://blog.csdn.net/sdkfjksf/article/details/51645315)
+##### [第15章-Android性能优化](http://yifeiyuan.me/2016/06/27/%E7%AC%AC15%E7%AB%A0-Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/)
+##### [移动网络下的性能优化之网络篇](https://blog.wilddog.com/?p=974)
+##### [android产品研发（十）-->尽量不使用静态变量保存数据](http://blog.csdn.net/qq_23547831/article/details/51655330)
+##### [进一步简化你的 ViewHolder](http://blog.csdn.net/lv_fq/article/details/51913515)
 
 <h5 id='fanqiang'>翻墙</h5>
 ##### [免费翻墙镜像和工具](http://w3cboy.com/post/2014/08/free-over-the-wall-tools-and-mirrors/)
@@ -499,7 +561,7 @@
 ##### [fir.im weekly - 「 持续集成」实践教程合集](http://blog.fir.im/fir_im_weekly160505/?hmsr=gold.xitu.io/&utm_medium=gold.xitu.io&utm_source=gold.xitu.io)
 ##### [Android自动化构建：Jenkins＋Gradle](http://www.jianshu.com/p/5ece11c3301e)
 ##### [Jenkins+Docker搭建持续集成测试环境](http://dockone.io/article/1464)
-
+##### [Android jenkins](http://valuesfeng.github.io/2016/06/30/Android-jenkins/)
 
 <h5 id='tv'>TV</h5>
 ##### [第一个Android TV Launcher开源项目](http://blog.csdn.net/rain_butterfly/article/details/44942747)
@@ -529,12 +591,18 @@
 
 <h5 id='hunxiao'>混淆</h5>
 ##### [5分钟搞定android混淆](http://www.jianshu.com/p/f3455ecaa56e)
+##### [Android分享：代码混淆那些事](https://segmentfault.com/a/1190000004461614)
+##### [Android 代码保护攻防战，以及一种别样的技巧](http://www.woaitqs.cc/android/2016/07/07/a-method-to-protect-your-android-code.html)
+##### [读懂 Android 中的代码混淆](http://droidyue.com/blog/2016/07/10/understanding-android-obfuscated-code-by-proguard/)
+##### [android产品研发（六）-->Apk混淆](http://blog.csdn.net/qq_23547831/article/details/51581491)
 
 
-<h5 id='tupianjiazai'>图片加载</h5>
+<h5 id='tupianjiazai'>网络加载</h5>
 ##### [网络图片加载的封装【从零开始搭建android框架系列（4）】](http://www.jianshu.com/p/e26130a93289)
+##### [Android实战之你应该使用哪个网络库？](https://segmentfault.com/a/1190000003965158#articleHeader0)
 
-<h5 id='view'>View</h5>
+<h5 id='view'>View&UI</h5>
+##### [PopupDialog](https://github.com/Orderella/PopupDialog)
 ##### [Android必知必会-获取View坐标和长宽的时机](http://blog.csdn.net/ys743276112/article/details/51396838)
 ##### [Android自定义控件三部曲文章索引](http://blog.csdn.net/harvic880925/article/details/50995268)
 ##### [Android开源类库栈](http://www.androidblog.cn/index.php/Source)
@@ -547,6 +615,13 @@
 ##### [详解实现Android中实现View滑动的几种方式](http://www.cnblogs.com/absfree/p/5352258.html)
 ##### [一步步教你写StepView（流程指示器）](http://www.jianshu.com/p/df03c1276121)
 ##### [用树型模型管理App数字和红点提示(附源码Demo)](http://gold.xitu.io/post/576dedb60a2b58006a0bec9a)
+##### [Android自定义通知样式适配](http://www.jianshu.com/p/426d85f34561)
+##### [Android水波纹特效的简单实现](http://www.jianshu.com/p/cba46422de67)
+##### [HermesEventBus-饿了么开源的Android跨进程事件分发框架](https://elelogistics.github.io/2016/07/13/HermesEventBus-%E4%B8%80%E7%A7%8D%E6%96%B0%E7%9A%84Android%E8%B7%A8%E8%BF%9B%E7%A8%8B%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E6%A1%86%E6%9E%B6/)
+##### [仿饿了么点击购物效果](https://github.com/JeasonWong/ElemeShoppingView)
+##### [Android引导页根据滑动渐变改变背景色](http://www.jianshu.com/p/c795ad5bf6f4)
+
+
 <h5 id='xiaoxijizhi'>消息机制</h5>
 ##### [Android 进程使用 Messenger 通信](http://www.wangchenlong.org/2016/05/17/1605/171-android-messenger/)
 ##### [Android Binder 完全解析（一）概述](http://www.jianshu.com/p/c11333e77910)
@@ -555,8 +630,9 @@
 ##### [Android 消息机制学习](http://www.jianshu.com/p/1e5640e6bef9)
 ##### [Android中的Service：Binder，Messenger，AIDL（2）](http://blog.csdn.net/luoyanglizi/article/details/51594016)
 ##### [使用AIDL实现Android的跨进程通信](http://www.jianshu.com/p/e642db926c50)
-
-
+##### [Android消息处理机制(Handler、Looper、MessageQueue与Message)](http://www.cnblogs.com/angeldevil/p/3340644.html)
+##### [可能是讲解Binder机制最好的文章](http://www.jianshu.com/p/1eff5a13000d)
+##### [Android消息机制的原理剖析—闭环总结](http://blog.csdn.net/u012164786/article/details/51638753)
 
 <h5 id='danwei'>单位</h5>
 ##### [Android UI 开发里的尺寸单位理解](http://mazhuang.org/2015/04/06/dp-sp-px/)
@@ -570,6 +646,7 @@
 
 <h5 id='nixiang'>逆向</h5>
 ##### [快速反编译APK（Mac环境）](http://www.jianshu.com/p/b3bb4da64dc7)
+##### [那些值得你试试的Android竞品分析工具](http://www.jianshu.com/p/ba2d9eca47a2)
 
 
 <h5 id='contentprovider'>ContentProvider</h5>
@@ -577,6 +654,7 @@
 
 <h5 id='hybrid'>Hybrid</h5>
 ##### [如何打造一个高性能的Hybrid App](https://segmentfault.com/a/1190000005732602)
+##### [H5 性能优化方案](http://tech.jandou.com/h5-performance-optimization-scheme.html)
 
 <h5 id='nohttp'>NoHttp</h5>
 ##### [是时候用NoHttp来替换Volley了](http://www.yanzhenjie.com/nohttp.html)
@@ -584,10 +662,13 @@
 
 <h5 id='xiancheng'>线程</h5>
 ##### [Android线程,线程池使用及原理博文参考](http://www.jianshu.com/p/a79b8765f729)
+##### [Java 并发 学习笔记](http://www.jianshu.com/p/cb1a23bc82d0)
+##### [Android 线程的正确使用姿势](http://android.jobbole.com/82440/)
 
 <h5 id='shejimoshi'>设计模式</h5>
 ##### [Android 源码中的设计模式](http://blog.csdn.net/amazing7/article/details/51719404)
 ##### [ 从Android代码中来记忆23种设计模式](http://blog.csdn.net/huachao1001/article/details/51536074)
+##### [找女朋友之简单工厂模式，工厂模式，抽象工厂模式](http://www.jianshu.com/p/3f824a91d73b)
 
 
 <h5 id='zidonghua'>自动化</h5>
@@ -596,11 +677,13 @@
 
 <h5 id=zhuti'>主题</h5>
 ##### [深度讲解 Android 主题层级](https://github.com/xitu/gold-miner/blob/master/TODO/android-themes-an-in-depth-guide.md)
+##### [代码进行动态设置主题](https://github.com/luxiaoming/ScoopsDemo)
 
 <h5 id='shoushen'>瘦身</h5>
 ##### [老司机谈APK瘦身套路-图片资源篇](http://blog.csdn.net/mynameishuangshuai/article/details/51752832)
 ##### [老司机谈APK瘦身套路-项目优化篇](http://gold.xitu.io/post/57707d96a633bd00642e1f8d)
-
+##### [APK瘦身记，如何实现高达53%的压缩效果](https://yq.aliyun.com/articles/57284?&utm_source=qq)
+##### [Google I/O 2016 笔记：APK 瘦身的正确姿势](https://zhuanlan.zhihu.com/p/21543787)
 
 <h5 id='beisaier'>贝塞尔</h5>
 ##### [自定义View——贝塞尔曲线](https://github.com/Idtk/Blog/blob/master/Blog/6%E3%80%81Bezier.md)
@@ -610,7 +693,50 @@
 
 <h5 id='huancun'>缓存</h5>
 ##### [Android里巧妙实现缓存](http://tech.glowing.com/cn/android-cache/)
+##### [Android中图片的三级缓存](http://werb.github.io/2016/06/12/Android%E4%B8%AD%E5%9B%BE%E7%89%87%E7%9A%84%E4%B8%89%E7%BA%A7%E7%BC%93%E5%AD%98/)
+##### [缓存架构的理论分析](https://segmentfault.com/a/1190000005923969)
 
 <h5 id='restful'>RESTful</h5>
 ##### [RESTful API 设计最佳实践](http://www.oschina.net/translate/best-practices-for-a-pragmatic-restful-api?cmp&p=3)
 ##### [好RESTful API的设计原则](http://www.cnblogs.com/moonz-wu/p/4211626.html)
+
+
+<h5 id='weex'>WEEX</h5>
+##### [weex开源库](https://github.com/alibaba/weex)
+
+
+<h5 id='so'>so</h5>
+##### [与 so 有关的一个长年大坑](https://zhuanlan.zhihu.com/p/21359984)
+
+
+<h5 id='adb'>adb</h5>
+##### [那些做Android开发必须知道的ADB命令](http://yifeiyuan.me/2016/06/30/ADB%E5%91%BD%E4%BB%A4%E6%95%B4%E7%90%86/)
+
+
+<h5 id='zhibo'>直播&视频</h5>
+##### [想做一套像映客的直播系统？看我就够了](http://www.jianshu.com/p/5b1341e97757)
+
+<h5 id='tiaozhuan'>跳转</h5>
+##### [android产品研发（十一）-->应用内跳转scheme协议](http://blog.csdn.net/qq_23547831/article/details/51685310)
+##### [实现activity跳转动画的五种方式](http://blog.csdn.net/qq_23547831/article/details/51821159)
+##### [[Android] 优雅的处理登录页面跳转逻辑](http://mafei.me/2016/07/10/Android-%E4%BC%98%E9%9B%85%E7%9A%84%E5%A4%84%E7%90%86%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2%E8%B7%B3%E8%BD%AC%E9%80%BB%E8%BE%91/)
+##### [Android安全开发之浅谈网页打开APP](https://yq.aliyun.com/articles/57088?&utm_source=qq)
+
+<h5 id='behavior'>Behavior</h5>
+##### [一个神奇的控件——Android CoordinatorLayout与Behavior使用指南](http://www.jianshu.com/p/488283f74e69)
+
+
+<h5 id='changlianjie'>长连接</h5>
+##### [android产品研发（十三）-->App轮询操作](http://blog.csdn.net/qq_23547831/article/details/51719389)
+##### [android产品研发（十二）-->App长连接实现](http://blog.csdn.net/qq_23547831/article/details/51690047)
+
+<h5 id='disanfang'>第三方SDK接入</h5>
+##### [微信App支付全解析](http://www.jianshu.com/p/9b353529f02c)
+##### [一个千万量级的APP使用的一些第三方库](http://www.jianshu.com/p/dc8c05cf693d)
+
+
+<h5 id='databinding'>Data Binding</h5>
+##### [从零开始的 Android 新项目 8 - Data Binding 高级篇](http://gold.xitu.io/post/578b944a128fe10063ad6c05)
+
+<h5 id='pingmushipei'>屏幕适配</h5>
+##### [让Android屏幕适配开发更简单-我就是传说中的Google百分比布局支持库](http://blog.csdn.net/youce/article/details/49801339)
