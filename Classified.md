@@ -75,16 +75,16 @@
 [缓存](#huancun)&emsp;&emsp;
 [RESTful](#restful)&emsp;&emsp;
 [host](#host)&emsp;&emsp;
-[WEEX](weex)&emsp;&emsp;
-[so](so)&emsp;&emsp;
-[adb](adb)&emsp;&emsp;
-[直播&视频](zhibo)&emsp;&emsp;
-[跳转](tiaozhuan)&emsp;&emsp;
-[Behavior](behavior)&emsp;&emsp;
-[长连接](changlianjie)&emsp;&emsp;
-[第三方SDK接入](disanfang)&emsp;&emsp;
-[Data Binding](databinding)&emsp;&emsp;
-[屏幕适配](pingmushipei)&emsp;&emsp;
+[WEEX](#weex)&emsp;&emsp;
+[so](#so)&emsp;&emsp;
+[adb](#adb)&emsp;&emsp;
+[直播&视频](#zhibo)&emsp;&emsp;
+[跳转](#tiaozhuan)&emsp;&emsp;
+[Behavior](#behavior)&emsp;&emsp;
+[长连接](#changlianjie)&emsp;&emsp;
+[第三方SDK接入](#disanfang)&emsp;&emsp;
+[Data Binding](#databinding)&emsp;&emsp;
+[屏幕适配](#pingmushipei)&emsp;&emsp;
 
 
 
