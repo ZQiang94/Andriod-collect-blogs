@@ -85,7 +85,7 @@
 [长连接](#changlianjie)&emsp;&emsp;
 [第三方SDK接入](#disanfang)&emsp;&emsp;
 [Data Binding](#databinding)&emsp;&emsp;
-[屏幕适配](#屏幕适配)&emsp;&emsp;
+[屏幕适配](#pingmushipei)&emsp;&emsp;
 
 
 
