@@ -71,7 +71,7 @@
 [自动化](#zidonghua)&emsp;&emsp;
 [主题](#zhuti)&emsp;&emsp;
 [瘦身](#shoushen)&emsp;&emsp;
-[贝塞尔](#neisaier)&emsp;&emsp;
+[贝塞尔](#beisaier)&emsp;&emsp;
 [二维码](#erweima)&emsp;&emsp;
 [缓存](#huancun)&emsp;&emsp;
 [RESTful](#restful)&emsp;&emsp;
