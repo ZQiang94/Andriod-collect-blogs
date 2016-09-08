@@ -97,7 +97,7 @@
 [响应式](#xiangyingshi)&emsp;&emsp;
 [桌面](#zhuomian)&emsp;&emsp;
 [序列化](#xuliehua)&emsp;&emsp;
-[ConstraintLayout](#constraintLayout)&emsp;&emsp;
+[ConstraintLayout](#ConstraintLayout)&emsp;&emsp;
 [Flux](#flux)&emsp;&emsp;
 [UML](#uml)&emsp;&emsp;
 
@@ -891,7 +891,7 @@
 ##### [老司机开车带你体验Parcelable到底有多快](https://dreamerhome.github.io/2016/07/22/parcelable/)
 
 
-<h5 id='constraintlayout'>ConstraintLayout</h5>[:arrow_up:](#tags)
+<h5 id='ConstraintLayout'>ConstraintLayout</h5>[:arrow_up:](#tags)
 ##### [Google I/O 2016 笔记之Layout新世界-ConstraintLayout](http://hlong.xyz/2016/06/21/Google%20IO%202016%20%E7%AC%94%E8%AE%B0%E4%B9%8BLayout%E6%96%B0%E4%B8%96%E7%95%8C-ConstraintLayout/)
 ##### [ConstraintLayout约束布局的概念与使用](http://www.jianshu.com/p/32a0a6e0a98a)
 
