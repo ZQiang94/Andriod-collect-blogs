@@ -742,6 +742,6 @@
 
 
 
-<p id=“jump”>我是该区域的相应内容</p> 
-#### <a href = "pingmushipei">屏幕适配</a>[:arrow_up:](#tags)
-##### [让Android屏幕适配开发更简单-我就是传说中的Google百分比布局支持库](http://blog.csdn.net/youce/article/details/49801339)
+<p id=“jump”>#### <a href = "pingmushipei">屏幕适配</a>[:arrow_up:](#tags)
+##### [让Android屏幕适配开发更简单-我就是传说中的Google百分比布局支持库](http://blog.csdn.net/youce/article/details/49801339)</p> 
+
