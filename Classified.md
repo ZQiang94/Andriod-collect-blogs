@@ -739,5 +739,5 @@
 <h5 id='databinding'>Data Binding</h5>
 ##### [从零开始的 Android 新项目 8 - Data Binding 高级篇](http://gold.xitu.io/post/578b944a128fe10063ad6c05)
 
-#### <span id="pingmushipei">屏幕适配</span> [:arrow_up:](#tags)
+[:arrow_up:](#tags)<span id="pingmushipei">Hello World</span>
 ##### [让Android屏幕适配开发更简单-我就是传说中的Google百分比布局支持库](http://blog.csdn.net/youce/article/details/49801339)
