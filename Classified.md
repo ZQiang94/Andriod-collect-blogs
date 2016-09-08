@@ -86,8 +86,6 @@
 [第三方SDK接入](#disanfang)&emsp;&emsp;
 [Data Binding](#databinding)&emsp;&emsp;
 [屏幕适配](#pingmushipei)&emsp;&emsp;
-<a href="#jump">点我看看</a> 
-
 
 
 
@@ -740,8 +738,5 @@
 <h5 id='databinding'>Data Binding</h5>
 ##### [从零开始的 Android 新项目 8 - Data Binding 高级篇](http://gold.xitu.io/post/578b944a128fe10063ad6c05)
 
-
-
-<p id=“jump”>#### <a href = "pingmushipei">屏幕适配</a>[:arrow_up:](#tags)
-##### [让Android屏幕适配开发更简单-我就是传说中的Google百分比布局支持库](http://blog.csdn.net/youce/article/details/49801339)</p> 
-
+#### <a href = "pingmushipei">屏幕适配</a>[:arrow_up:](#tags)
+##### [让Android屏幕适配开发更简单-我就是传说中的Google百分比布局支持库](http://blog.csdn.net/youce/article/details/49801339)
