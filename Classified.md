@@ -1,6 +1,6 @@
 ## 点击:arrow_up:返回到顶部
 ###有分类不合理的地方请提Issues。欢迎欢迎~
-###<font color=#FF0000 size=6 face="黑体">每天不定时更新</font>
+<font color=#0099ff size=8 face="黑体">每天不定时更新~</font>
 <h3 id='tags'>Tags</h3>
 [学习笔记](#xuexibiji)&emsp;&emsp;
 [开源工程](#kaiyuangongcheng)&emsp;&emsp;
