@@ -152,6 +152,7 @@
 ##### [FanMenu](https://github.com/BCGDV-ASIA/android-widget-fanmenu)
 ##### [android高仿微信表情输入与键盘输入详解](http://blog.csdn.net/javazejian/article/details/52126391)
 ##### [15 个 Android 通用流行框架大全](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=504089878&idx=1&sn=ef15fde2781ac1be76d9baa5bb1690f2#rd)
+##### [多达288种动态效果的侧滑菜单开源库,满足您项目的各种需求](http://blog.csdn.net/qq_26971803/article/details/52160591)
 ##### [类似QQ、微信、微博的WeiBoLayout](http://zheblog.com/2016/06/06/%E5%BE%AE%E5%8D%9AWeiBoLayout/)
 ##### [QingtingBannerView](https://github.com/JeasonWong/QingtingBannerView)
 ##### [app动态引导页的制作](http://blog.csdn.net/qq_31530015/article/details/51302784)
