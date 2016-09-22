@@ -915,3 +915,4 @@
 ##### 856. [Android耗电量测试及排查方法](http://mp.weixin.qq.com/s?__biz=MzAwNTI4NzIxMQ==&mid=2651473357&idx=1&sn=2caec1b5ea02a95e7a9526092f13751a&chksm=80e01989b797909fbb662f96294524cee35252a14454313501024bc30aa40675508fcae228de&scene=2&srcid=0920179NkApCP5usiHOi339F&from=timeline&isappinstalled=0#wechat_redirect)
 ##### 857. [详谈高大上的图片加载框架Glide -源码篇](http://gold.xitu.io/post/57df609767f3560056b03672)
 ##### 858. [【Android】详解7.0带来的新工具类：DiffUtil](http://blog.csdn.net/zxt0601/article/details/52562770)
+##### 856. [Java 面试题问与答：编译时与运行时](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651477512&idx=1&sn=e2c606526bde93ea1bfb459c578601b7&chksm=bd253a778a52b361859b2fa7ee0c2c21b92162968add7420991d02abccaf61f1984d0ece0271&scene=0#wechat_redirect)
