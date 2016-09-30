@@ -973,3 +973,5 @@
 ##### 911. [史上最全的 SQL 注入资料，收藏不谢](http://mp.weixin.qq.com/s?__biz=MjM5OTA1MDUyMA==&mid=2655436960&idx=1&sn=dc865e1006bb07b5ff81a18f28f778e5&chksm=bd730cd78a0485c1f466cb791e78cde41601621df8f834c7e142b2ea3c928db9834635bc6e4e&scene=0#wechat_redirect)
 ##### 912. [Android SDK 开发（第一部分）](http://mp.weixin.qq.com/s?__biz=MzIwNjQ1NzQxNA==&mid=2247483925&idx=1&sn=57d7b656495b2698cd2cc2958b68538d&chksm=97201d3ca057942a33aa7dc3c158b1104d202d42713b58f3c88e66fcccb5b6d328ffb4db70f3&mpshare=1&scene=1&srcid=0928XXoH5Tpnlqe2PAPfYmwX#rd)
 ##### 913. [安全扫描 | Android组件通信安全](http://mp.weixin.qq.com/s?__biz=MzAwNTI4NzIxMQ==&mid=2651473381&idx=1&sn=cc7e44217fa832c561b0b407b7396681&chksm=80e019a1b79790b7a219f76e167708a6df2d17ed78172beef96b5569823d0c223095def354c0&mpshare=1&scene=1&srcid=092849pJT3hRBNeV8XTXf9SL#rd)
+##### 914. [dumpsys 命令用法](http://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=2652261994&idx=1&sn=d20346d780d3735899d622eb6f57100f&chksm=84dc71fdb3abf8eb79e21a12dc22c90217cfc0b9624e5a95908de03cb2141314c4846eb7a5a9&scene=0#wechat_redirect)
+##### 915. [这些GIT经验够你用一年了](https://zhuanlan.zhihu.com/p/22666153)
