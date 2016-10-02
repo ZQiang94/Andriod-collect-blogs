@@ -975,3 +975,4 @@
 ##### 913. [安全扫描 | Android组件通信安全](http://mp.weixin.qq.com/s?__biz=MzAwNTI4NzIxMQ==&mid=2651473381&idx=1&sn=cc7e44217fa832c561b0b407b7396681&chksm=80e019a1b79790b7a219f76e167708a6df2d17ed78172beef96b5569823d0c223095def354c0&mpshare=1&scene=1&srcid=092849pJT3hRBNeV8XTXf9SL#rd)
 ##### 914. [dumpsys 命令用法](http://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=2652261994&idx=1&sn=d20346d780d3735899d622eb6f57100f&chksm=84dc71fdb3abf8eb79e21a12dc22c90217cfc0b9624e5a95908de03cb2141314c4846eb7a5a9&scene=0#wechat_redirect)
 ##### 915. [这些GIT经验够你用一年了](https://zhuanlan.zhihu.com/p/22666153)
+##### 916. [听说”双11”是这么解决线上bug的](http://blog.csdn.net/theone10211024/article/details/50275027)
