@@ -982,3 +982,4 @@
 ##### 920. [安卓开发之使用双进程守护和进程提权来实现服务进程保活](http://blog.csdn.net/cxmscb/article/details/52402813)
 ##### 921. [阅读大型 JavaScript 源码时有什么好用的工具？](https://www.zhihu.com/question/25490540/answer/30883710?from=groupmessage&isappinstalled=1)
 ##### 922. [203个实用工具大推荐，运营、设计、广告人的必备神器！](http://www.woshipm.com/operate/410814.html)
+##### 923. [Android App 多语言切换](http://jaeger.itscoder.com/android/2016/05/14/switch-language-on-android-app.html)
