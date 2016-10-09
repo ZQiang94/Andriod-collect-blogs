@@ -987,3 +987,4 @@
 ##### 926. [Java 8简明教程](http://www.importnew.com/10360.html)
 ##### 927. [Android Universal Image Loader 源码分析](http://a.codekk.com/detail/Android/huxian99/Android%20Universal%20Image%20Loader%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90)
 ##### 928. [OkGo，一个专注于让网络请求更简单的框架，与RxJava完美结合，比Retrofit更简单易用。](http://www.jianshu.com/p/6aa5cb272514)
+##### 929. [手把手教你画一个 逼格满满圆形水波纹loadingview Android ](http://blog.csdn.net/wingichoy/article/details/50523713)
