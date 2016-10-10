@@ -1004,3 +1004,4 @@
 ##### 944. [来不及解释了，快上车之EventBus3.0更多实用使用](http://www.jianshu.com/p/72f475ac3a8d)
 ##### 945. [Android安全开发之安全使用HTTPS](https://jaq.alibaba.com/community/art/show?spm=a313e.7916648.0.0.cNDE6s&articleid=545)
 ##### 946. [Android 设备唯一标识生成方式](http://blog.csdn.net/zhimingshangyan/article/details/51044313)
+##### 947. [走上Hexo搭建博客的不归之路](http://yifeng.studio/2016/04/12/hexo_references/)
