@@ -22,4 +22,5 @@
 | Network request | todo    | 
 | permission requests    | rxPermission & other    |   
 | ImageLoader | Glide   | 
+| automated testing | UI Automator   | 
 | UI          |....|
