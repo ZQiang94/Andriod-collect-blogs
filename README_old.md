@@ -1014,3 +1014,6 @@
 ##### 954. [Matrix原理](http://www.idtkm.com/customview/cutomview14/)
 ##### 955. [六个例子彻底理解finally语句块](http://blog.csdn.net/qq_26971803/article/details/52058715)
 ##### 956. [Android高工必备技能！](http://www.jianshu.com/p/d791bbede02c)
+##### 957. [谈谈为什么写单元测试](http://www.jianshu.com/p/fa41fb80d2b8)
+##### 958. [Android单元测试 - 如何开始？](http://www.jianshu.com/p/bc99678b1d6e)
+##### 959. [Android单元测试 - 几个重要问题](http://www.jianshu.com/p/f5d197a4d83a)
