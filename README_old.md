@@ -1017,3 +1017,4 @@
 ##### 957. [谈谈为什么写单元测试](http://www.jianshu.com/p/fa41fb80d2b8)
 ##### 958. [Android单元测试 - 如何开始？](http://www.jianshu.com/p/bc99678b1d6e)
 ##### 959. [Android单元测试 - 几个重要问题](http://www.jianshu.com/p/f5d197a4d83a)
+##### 960. [在 Android studio 上运用 UI Automator 执行自动化测试](https://testerhome.com/topics/2757)
