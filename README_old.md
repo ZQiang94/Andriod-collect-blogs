@@ -1038,3 +1038,4 @@
 ##### 978. [重新认识AndroidStudio和Gradle,这些都是你应该知道的](http://mp.weixin.qq.com/s?__biz=MzIwNjQ1NzQxNA==&mid=2247483946&idx=1&sn=da2458e2e6cd87115adec58ac0b0d3c6&chksm=97201d03a05794150a48bf3c0586b11c355c541dcd5b0f76dcad7fd1304d080459e6564d8298&mpshare=1&scene=1&srcid=1017GVivyfq4lSBaNEpMCXJu#rd)
 ##### 979. [漫谈Android 增量更新](http://blog.csdn.net/dd864140130/article/details/52928419)
 ##### 980. [Android进程绝杀技--forceStop](http://gityuan.com/2016/10/22/force-stop/)
+##### 981. [软键盘挡住输入框问题的终极解决方案](http://www.diycode.cc/topics/383)
