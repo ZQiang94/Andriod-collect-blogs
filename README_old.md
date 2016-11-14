@@ -1099,7 +1099,7 @@
 ##### 1049. [轻松实现RecyclerView悬浮条](http://www.jianshu.com/p/fe69a53502ab)
 ##### 1050. [手把手教你做个人 app](http://www.diycode.cc/topics/409)
 ##### 1051. [Android泄漏模式：View中的订阅](http://www.jianshu.com/p/73f347c028e4)
-##### 1052. []()
+##### 1052. [关于RecylerView优质文章](https://github.com/CymChad/CymChad.github.io)
 ##### 1053. []()
 ##### 1054. []()
 ##### 1055. []()
