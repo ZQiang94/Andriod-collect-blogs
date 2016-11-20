@@ -10,3 +10,4 @@
 ##### 9. [js中多行字符串编辑，你会哪些方式](https://qianlongo.github.io/2016/03/28/js%E4%B8%AD%E5%A4%9A%E8%A1%8C%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%BC%96%E8%BE%91%EF%BC%8C%E4%BD%A0%E4%BC%9A%E9%82%A3%E4%BA%9B%E6%96%B9%E5%BC%8F/#more)
 ##### 10. [《JavaScript 闯关记》之语法](http://gold.xitu.io/post/580c38bf570c350068eb9910)
 ##### 11. [前端知识点的理解，资料来源于网络](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/21-Front-end-Interview-questions#￤ﾸﾀ￤ﾺﾛ￥ﾼﾀ￦ﾔﾾ￦ﾀﾧ￩ﾢﾘ￧ﾛﾮhttps://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/21-Front-end-Interview-questions#￤ﾸﾀ￤ﾺﾛ￥ﾼﾀ￦ﾔﾾ￦ﾀﾧ￩ﾢﾘ￧ﾛﾮ)
+##### 13. [前端丨超全面+最流行的「前端速查表」高清版大全](http://www.uisdc.com/frontend-quick-search-sheet)
