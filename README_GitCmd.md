@@ -317,3 +317,6 @@ $ git revert [commit]
 #### 生成一个可供发布的压缩包
 
 $ git archive
+
+#[全面理解Git](http://gold.xitu.io/post/582bd0b4da2f600063d4f89e)
+
