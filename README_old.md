@@ -1146,4 +1146,4 @@
 ##### 1097. [必须要会的Git基本使用及常用命令操作](http://www.jianshu.com/p/555e7a188312)
 ##### 1098. [你拥有它，让你Android开发更简单](http://www.jianshu.com/p/22ff8b5fdadc)
 ##### 1099. [免费的编程中文书籍索引](http://siberiawolf.com/free_programming/index.html)
-##### 1100. []()
+##### 1100. [Android数据加密方案](http://www.jianshu.com/p/d4fee3a2de82)
