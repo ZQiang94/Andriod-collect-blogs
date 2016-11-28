@@ -1149,3 +1149,6 @@
 ##### 1100. [Android数据加密方案](http://www.jianshu.com/p/d4fee3a2de82)
 ##### 1101. [2015年Android面试题及答案大全—最新版](http://www.cnblogs.com/wenyang-rio/p/5048284.html)
 ##### 1102. [Android 蹲坑的疑难杂症集锦一](http://gold.xitu.io/post/58319f1ada2f600063006541)
+##### 1103. [使用RxJava帮助低功耗蓝牙(BLE)进行通信](http://gold.xitu.io/post/583a9cfac59e0d006b3b597d) 
+##### 1104. [高仿各大商城首页---使用分类型的RecyclerView来实现](http://blog.csdn.net/cjm2484836553/article/details/53363233)
+##### 1105. [Android实践之ScrollView中滑动冲突处理](http://blog.csdn.net/xiaohanluo/article/details/52130923)
