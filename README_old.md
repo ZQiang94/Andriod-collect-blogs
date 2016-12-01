@@ -1158,3 +1158,4 @@
 ##### 1109. [Android大文件上传秒传之MD5篇](http://gold.xitu.io/post/583e2172128fe1006bf66bc8)
 ##### 1110. [告别Java。一起来使用kotlin开发完整客户端](http://gold.xitu.io/post/583b042461ff4b007ecf00ff)
 ##### 1111. [玩转AppBarLayout](http://mp.weixin.qq.com/s?__biz=MzIzMjE1Njg4Mw==&mid=2650117784&idx=1&sn=e7590d60c1ad211665d28b9e8ac82254&chksm=f0980d24c7ef8432bf0f37abbb090762124e40f17fa7b7d3c94307996da426f619e29afd8935#rd)
+##### 1112. [揭秘360手机助手未经用户同意，自动开启辅助功能的“黑科技”](http://www.freebuf.com/articles/terminal/121253.html)
