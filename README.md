@@ -559,6 +559,11 @@
 <h5 id='jiagouyanjin'>架构演进</h5>[:arrow_up:](#tags)
 ##### [微信Android客户端架构演进之路](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=401921778&idx=1&sn=f05433ff53199999f9dc2acb3b249ac3&scene=21#wechat_redirect)
 ##### [京东咚咚架构演进](http://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=401186254&idx=1&sn=1b3c81386973c99cad99079fcd6be6e3#rd)
+##### [有赞Android客户端网络架构演进](http://tech.youzan.com/android_http/)
+##### [小红书Android客户端演进之路](http://blog.isming.me/2016/08/08/red-android-evolution/)
+##### [饿了么移动APP的架构演进](https://mp.weixin.qq.com/s?__biz=MzAxNDUwMzU3Mw==&mid=401044540&idx=1&sn=24b7d8fb655ae6dd5d989d0cb3c08e90)
+##### [各大互联网公司架构演进之路汇总](http://www.hollischuang.com/archives/1036)
+##### [英语流利说 Android 架构演进](https://github.com/DiyCodes/code_news/blob/master/dialy_news/2016/05/%E7%AC%AC15%E6%9C%9F%EF%BC%9A%E8%8B%B1%E8%AF%AD%E6%B5%81%E5%88%A9%E8%AF%B4%20Android%20%E6%9E%B6%E6%9E%84%E6%BC%94%E8%BF%9B.md)
 
 
 <h5 id='java'>Java</h5>[:arrow_up:](#tags)
