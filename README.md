@@ -563,8 +563,7 @@
 ##### [小红书Android客户端演进之路](http://blog.isming.me/2016/08/08/red-android-evolution/)
 ##### [饿了么移动APP的架构演进](https://mp.weixin.qq.com/s?__biz=MzAxNDUwMzU3Mw==&mid=401044540&idx=1&sn=24b7d8fb655ae6dd5d989d0cb3c08e90)
 ##### [各大互联网公司架构演进之路汇总](http://www.hollischuang.com/archives/1036)
-##### [英语流利说 Android 架构演进](https://github.com/DiyCodes/code_news/blob/master/dialy_news/2016/05/%E7%AC%AC15%E6%9C%9F%EF%BC%9A%E8%8B%B1%E8%AF%AD%E6%B5%81%E5%88%A9%E8%AF%B4%20Android%20%E6%9E%B6%E6%9E%84%E6%BC%94%E8%BF%9B.md)
-
+##### [英语流利说 Android 架构演进](http://sanwen8.cn/p/129VrRf.html)
 
 <h5 id='java'>Java</h5>[:arrow_up:](#tags)
 ##### [一分钟秒懂注解](https://dreamerhome.github.io/2016/08/02/annotaion/)
