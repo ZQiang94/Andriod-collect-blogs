@@ -1187,4 +1187,10 @@
 ##### 1137. [阅读pdf客户端](https://github.com/FolioReader/FolioReader-Android)
 ##### 1138. [如何做一个崩溃率少于千分之三噶应用app（11）-Gradle组件化优化](http://www.jianshu.com/p/5343f38c0723?utm_source=gank.io&utm_medium=email)
 ##### 1139. [全球HTTPS时代已来，你跟上了吗？](https://segmentfault.com/a/1190000007577396)
-##### 1140. []()
+##### 1140. [引导页之从零开始](http://www.jianshu.com/p/664742bc7b5b)
+##### 1141. [jenkins+gitlab + 蒲公英实现 android 应用自动化打包分发](https://gold.xitu.io/post/584e49448e450a006acabc57)
+##### 1142. [2016年未，腾讯，百度，华为，搜狗和滴滴面试题汇总](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484286&idx=1&sn=e5843fb79d8a36ab063699b5fb9a0711&chksm=eae1f62cdd967f3a576396f8402581326b835b8327ed5f20f23896fcd22c2115e77863b4115b#rd)
+##### 1143. [Android进程保活招式大全](http://dev.qq.com/topic/57ac4a0ea374c75371c08ce8)
+##### 1144. [可以展开缩放的Viewpager](https://github.com/githubwing/ExpandableViewpager)
+
+
