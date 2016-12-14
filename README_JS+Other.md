@@ -11,3 +11,4 @@
 ##### 10. [《JavaScript 闯关记》之语法](http://gold.xitu.io/post/580c38bf570c350068eb9910)
 ##### 11. [前端知识点的理解，资料来源于网络](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/21-Front-end-Interview-questions#￤ﾸﾀ￤ﾺﾛ￥ﾼﾀ￦ﾔﾾ￦ﾀﾧ￩ﾢﾘ￧ﾛﾮhttps://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/21-Front-end-Interview-questions#￤ﾸﾀ￤ﾺﾛ￥ﾼﾀ￦ﾔﾾ￦ﾀﾧ￩ﾢﾘ￧ﾛﾮ)
 ##### 13. [前端丨超全面+最流行的「前端速查表」高清版大全](http://www.uisdc.com/frontend-quick-search-sheet)
+##### 14. [超完整的 Chrome 浏览器客户端调试大全](https://zhuanlan.zhihu.com/p/24353060)
