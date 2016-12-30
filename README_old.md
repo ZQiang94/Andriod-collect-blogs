@@ -1226,7 +1226,7 @@
 ##### 1176. [仿饿了么左滑跳转](http://www.jianshu.com/p/e4991d409f76)
 ##### 1177. [TabHost ~ 仿微信底部菜单](http://blog.csdn.net/poorkick/article/details/53394047)
 ##### 1178. [让你不再俱怕Fragment State Loss](http://toughcoder.net/blog/2016/11/28/fear-android-fragment-state-loss-no-more/)
-##### 1179. []()
+##### 1179. [TinkerPatch 平台介绍](http://tinkerpatch.com/Docs/intro)
 ##### 1180. []()
 ##### 1181. []()
 ##### 1182. []()
