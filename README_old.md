@@ -1194,7 +1194,7 @@
 ##### 1144. [可以展开缩放的Viewpager](https://github.com/githubwing/ExpandableViewpager)
 ##### 1145. [2016年未，腾讯，百度，华为，搜狗和滴滴面试题汇总](http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484286&idx=1&sn=e5843fb79d8a36ab063699b5fb9a0711&chksm=eae1f62cdd967f3a576396f8402581326b835b8327ed5f20f23896fcd22c2115e77863b4115b#rd)
 ##### 1146. [H5唤起原生应用](http://ihongqiqu.com/2015/12/03/html-call-native-app/)
-##### 1147. []()
+##### 1147. [Android Studio 2.2的新鲜事](http://mp.weixin.qq.com/s?utm_source=gank.io&sn=9aa9b204af34baabd2fdbba649e20d79&idx=1&utm_medium=email&__biz=MzAwODY4OTk2Mg%3D%3D&scene=21&mid=2652039482#wechat_redirect)
 ##### 1148. []()
 ##### 1149. []()
 ##### 1150. []()
