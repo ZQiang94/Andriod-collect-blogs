@@ -1227,7 +1227,7 @@
 ##### 1177. [TabHost ~ 仿微信底部菜单](http://blog.csdn.net/poorkick/article/details/53394047)
 ##### 1178. [让你不再俱怕Fragment State Loss](http://toughcoder.net/blog/2016/11/28/fear-android-fragment-state-loss-no-more/)
 ##### 1179. [TinkerPatch 平台介绍](http://tinkerpatch.com/Docs/intro)
-##### 1180. []()
+##### 1180. [人人车Android客户端架构演进实录](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651113031&idx=1&sn=7e9989d1044b836d34f38dc527b8d6c2&chksm=844c6f9ab33be68cd9851c71d3833cfb65b5824a6f8572cc294988413452fd74be07d4221d51&mpshare=1&scene=23&srcid=0111ZRVJDeaSEG5BotEJnoMx#rd)
 ##### 1181. []()
 ##### 1182. []()
 ##### 1183. []()
