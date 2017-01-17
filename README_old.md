@@ -1229,7 +1229,7 @@
 ##### 1179. [TinkerPatch 平台介绍](http://tinkerpatch.com/Docs/intro)
 ##### 1180. [人人车Android客户端架构演进实录](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651113031&idx=1&sn=7e9989d1044b836d34f38dc527b8d6c2&chksm=844c6f9ab33be68cd9851c71d3833cfb65b5824a6f8572cc294988413452fd74be07d4221d51&mpshare=1&scene=23&srcid=0111ZRVJDeaSEG5BotEJnoMx#rd)
 ##### 1181. [Android内存泄漏小谈](http://smallsoho.com/2017/01/11/Android%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E6%80%9D%E8%80%83.html)
-##### 1182. []()
+##### 1182. [你不知道一些神奇Android Api](http://www.jianshu.com/p/4d21341f94ee)
 ##### 1183. []()
 ##### 1184. []()
 ##### 1185. []()
