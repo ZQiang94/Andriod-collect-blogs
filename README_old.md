@@ -1248,7 +1248,7 @@
 ##### 1198. [Android开发软件架构思考以及经验总结](http://blog.csdn.net/JF_1994/article/details/53870534)
 ##### 1199. [你不知道一些神奇Android Api](http://www.jianshu.com/p/4d21341f94ee)
 ##### 1200. [根据包名判断 App 运行状态](https://gold.xitu.io/post/589990dd128fe1006cc277c3)
-##### 1201. []()
+##### 1201. [AE模板](https://material.uplabs.com/)
 ##### 1202. []()
 ##### 1203. []()
 ##### 1204. []()
