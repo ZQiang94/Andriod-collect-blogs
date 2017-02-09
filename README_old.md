@@ -1247,7 +1247,7 @@
 ##### 1197. [Chrome 新插件｜帮助中国开发者更便捷地浏览 Google 开发者资源网站](http://developers.googleblog.cn/2017/01/chrome-google.html)
 ##### 1198. [Android开发软件架构思考以及经验总结](http://blog.csdn.net/JF_1994/article/details/53870534)
 ##### 1199. [你不知道一些神奇Android Api](http://www.jianshu.com/p/4d21341f94ee)
-##### 1200. []()
+##### 1200. [根据包名判断 App 运行状态](https://gold.xitu.io/post/589990dd128fe1006cc277c3)
 ##### 1201. []()
 ##### 1202. []()
 ##### 1203. []()
