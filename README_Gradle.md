@@ -16,8 +16,7 @@
 ##### 17. [Android 开发你需要了解的Gradle配置](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662016&idx=1&sn=a3c338766b6ea9de654b1a011dcf5b3e#rd)
 ##### 18. [“替你”总结的Gradle配置](http://www.jianshu.com/p/642641dc7df3)
 ##### 19. [深入浅出聊聊Gradle三两事](http://crash.163.com/#news/!newsId=21)
-
-
+##### 20.[Android Studio中gradle的一些玩法](https://gold.xitu.io/post/589d1036b123db16a3c6d6d1)
 #[Gradle配置最佳实践](http://gold.xitu.io/post/582d606767f3560063320b21)
 本文会不定期更新，推荐watch下项目。如果喜欢请star，如果觉得有纰漏请提交issue，如果你有更好的点子可以提交pull request。本文意在分享作者在实践中掌握的关于gradle的一些技巧。
 
