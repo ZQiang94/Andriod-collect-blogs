@@ -1249,7 +1249,7 @@
 ##### 1199. [你不知道一些神奇Android Api](http://www.jianshu.com/p/4d21341f94ee)
 ##### 1200. [根据包名判断 App 运行状态](https://gold.xitu.io/post/589990dd128fe1006cc277c3)
 ##### 1201. [AE模板](https://material.uplabs.com/)
-##### 1202. []()
+##### 1202. [安卓5.0 6.0新特性简单总结](http://blog.csdn.net/tianzhu2725/article/details/52775285)
 ##### 1203. []()
 ##### 1204. []()
 ##### 1205. []()
