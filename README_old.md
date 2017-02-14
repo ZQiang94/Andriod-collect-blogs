@@ -1250,7 +1250,7 @@
 ##### 1200. [根据包名判断 App 运行状态](https://gold.xitu.io/post/589990dd128fe1006cc277c3)
 ##### 1201. [AE模板](https://material.uplabs.com/)
 ##### 1202. [安卓5.0 6.0新特性简单总结](http://blog.csdn.net/tianzhu2725/article/details/52775285)
-##### 1203. []()
+##### 1203. [Android架构思考(模块化、多进程)](http://blog.spinytech.com/2016/12/28/android_modularization/)
 ##### 1204. []()
 ##### 1205. []()
 ##### 1206. []()
