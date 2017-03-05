@@ -1263,3 +1263,8 @@
 ##### 1213. [Android冷启动实现APP秒开](http://www.jianshu.com/p/03c0fd3fc245)
 ##### 1214. [高效Android开发者的工具库](http://mp.weixin.qq.com/s?__biz=MzA3OTk4ODkwNA==&mid=2449245750&idx=1&sn=e7ed423c4a52aabfa2e7d2684cb85abf&chksm=8ba337f1bcd4bee7797050bc4e1cad33853e5b782ec088e9f189fca14ddf6de7a86a6311b7e3&scene=0#rd)
 ##### 1215. [基于RxJava和Retrofit的登录注册（包含客户端和服务器端代码）](https://github.com/soulrelay/RxLoginAndRegister)
+##### 1216. [天猫UI框架vLayout](http://pingguohe.net/2017/02/28/vlayout-design.html)
+##### 1217. [Android-实现Animation everywhere](http://www.jianshu.com/p/e96e9775caa3)
+##### 1218. [自定义Behavior](http://www.jianshu.com/p/ec2ad90e9db7)
+##### 1219. [Android 状态栏操作，你想知道的](https://gold.xitu.io/post/58ad9ca70ce463006b24f134)
+##### 1220. [更加自然的渐变——呼吸动画](http://blog.csdn.net/l_wwbs/article/details/54691770)
