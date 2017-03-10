@@ -16,7 +16,7 @@ git push origin HEAD:refs/for/develop //推送本地develop分支到远程origin
 重新打patch进行提交（修改上次提交的内容）
 ```javascript
 git add .
-git commit –amend //对上次提交做出修改
+git commit --amend //对上次提交做出修改
 git push origin HEAD:refs/for/develop
 ```
 
