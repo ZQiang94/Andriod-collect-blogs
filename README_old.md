@@ -1274,3 +1274,6 @@
 ##### 1224. [插件化中Activity的加载](http://blog.csdn.net/u014787113/article/details/60873937)
 ##### 1225. [组件化与插件化优化](https://juejin.im/post/58bf9ee6a22b9d00588a8bc7)
 ##### 1226. [BaseActivity的封装思想及YzsBaseActivity详解](http://blog.csdn.net/a243981326/article/details/57429927)
+##### 1227. [大幅提高工作效率的 API 汇总](https://juejin.im/post/58c407ee44d90400698757d8)
+##### 1228. []()
+##### 1229. []()
