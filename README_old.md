@@ -1275,5 +1275,6 @@
 ##### 1225. [组件化与插件化优化](https://juejin.im/post/58bf9ee6a22b9d00588a8bc7)
 ##### 1226. [BaseActivity的封装思想及YzsBaseActivity详解](http://blog.csdn.net/a243981326/article/details/57429927)
 ##### 1227. [大幅提高工作效率的 API 汇总](https://juejin.im/post/58c407ee44d90400698757d8)
-##### 1228. []()
-##### 1229. []()
+##### 1228. [写给移动开发者的 React Native 指南](http://www.jianshu.com/p/b88944250b25)
+##### 1229. [安全系列之：如何在native层保存关键信息](http://www.jianshu.com/p/2576d064baf1)
+##### 1230. [深入了解Java之垃圾回收](http://itfeifei.win/2017/03/15/%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3Java%E4%B9%8B%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6/)
