@@ -5,9 +5,9 @@
 ### :red_circle:每天不定时更新~
 ##### [上一版README（未排序）](https://github.com/ZQiang94/Andriod-collect-blogs/blob/master/README_old.md)
 <h3 id='tags'>Tags</h3>
-[学习笔记] (#xuexibiji)&emsp;&emsp;
-[开源工程] (#kaiyuangongcheng)&emsp;&emsp;
-[权限] (#quanxian)&emsp;&emsp;
+[学习笔记](#xuexibiji)&emsp;&emsp;
+[开源工程](#kaiyuangongcheng)&emsp;&emsp;
+[权限](#quanxian)&emsp;&emsp;
 [RX系列] (#rx)&emsp;&emsp;
 [Retrofit](#retrofit)&emsp;&emsp;
 [打包](#dabao)&emsp;&emsp;
@@ -121,3 +121,23 @@
 [效率工具](#xiaolvgongju)&emsp;&emsp;
 [ROM](#rom)&emsp;&emsp;
 [Span](#span)&emsp;&emsp;
+
+<h5 id='xuexibiji'>学习笔记</h5>[:arrow_up:](#tags)
+##### [提升Android开发效率的最佳实践](https://segmentfault.com/a/1190000006189695)
+##### [Android开发最佳实践](http://mafei.me/2016/08/06/%E8%AF%91%E6%96%87-Android%E5%BC%80%E5%8F%91%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/)
+##### [Android开发人员不得不收集的代码(不断更新)](http://www.jianshu.com/p/72494773aace)
+##### [2016 年 Android 最佳实践列表](http://blog.fir.im/fir_im_weekly160624/)
+##### [AndroidShareGroup技术周报（第一期）](http://mouxuejie.com/blog/2016-07-30/AndroidShareGroup-weekly-01/)
+##### [《HelloGithub月刊》](https://github.com/521xueweihan/HelloGithub)
+##### [安卓开发新技能Get丨常用必备小工具汇总](http://blog.csdn.net/youce/article/details/49801683)
+##### [fir.im Weekly - 2016 年Android最佳实践列表](http://blog.fir.im/fir_im_weekly160624/?hmsr=gold.xitu.io/&utm_medium=gold.xitu.io&utm_source=gold.xitu.io)
+##### [:smile:Android related knowledge points learning records](https://github.com/ZQiang94/StudyRecords)
+##### [Tim9Liu9整理的Android资料集合](https://github.com/Tim9Liu9/TimLiu-Android)
+##### [Android开发10个常用工具类](http://www.devstore.cn/essay/essayInfo/5862.html)
+##### [关于Android分享的目录 - 送给读者的一份礼物](http://www.jianshu.com/p/780658b79227)
+##### [Android Tips 7](http://www.wangchenlong.org/2016/02/25/tips/1605/072-android-tips-7/)
+##### [38个学习新技能的最佳网站](http://www.devstore.cn/essay/essayInfo/5904.html)
+##### [为Android开发者整理的Google I/O开发者大会第一弹](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653057489&idx=1&sn=8b7cd4f827afc607514e8bf69b27a461#rd)
+##### [［Android基础］Android总结篇](http://blog.csdn.net/codeemperor/article/details/51004189)
+##### [Android开发工具](http://mobdevgroup.com/tools/android#gradle)
+##### [Android App 开发技术图谱](http://www.jianshu.com/p/39c63eff3c36)
