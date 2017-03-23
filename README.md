@@ -1,10 +1,12 @@
 [![Codewake](https://www.codewake.com/badges/codewake.svg)](https://www.codewake.com/p/andriod-collect-blogs-7e3b78bf-5c10-4805-9111-a0969eccaac8)
 [![Codewake](https://www.codewake.com/badges/codewake2.svg)](https://www.codewake.com/p/andriod-collect-blogs-7e3b78bf-5c10-4805-9111-a0969eccaac8)
-###阅读提示：点击下文中:arrow_up:返回到顶部
-###有分类不合理的地方请提Issues。欢迎欢迎~
-###:red_circle:每天不定时更新~
-#####[上一版README（未排序）](https://github.com/ZQiang94/Andriod-collect-blogs/blob/master/README_old.md)
+### 阅读提示：点击下文中:arrow_up:返回到顶部
+### 有分类不合理的地方请提Issues。欢迎欢迎~
+### :red_circle:每天不定时更新~
+##### [上一版README（未排序）](https://github.com/ZQiang94/Andriod-collect-blogs/blob/master/README_old.md)
 <h3 id='tags'>Tags</h3>
+
+
 [学习笔记](#xuexibiji)&emsp;&emsp;
 [开源工程](#kaiyuangongcheng)&emsp;&emsp;
 [权限](#quanxian)&emsp;&emsp;
@@ -126,6 +128,7 @@
 
 
 <h5 id='xuexibiji'>学习笔记</h5>[:arrow_up:](#tags)
+
 ##### [提升Android开发效率的最佳实践](https://segmentfault.com/a/1190000006189695)
 ##### [Android开发最佳实践](http://mafei.me/2016/08/06/%E8%AF%91%E6%96%87-Android%E5%BC%80%E5%8F%91%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/)
 ##### [Android开发人员不得不收集的代码(不断更新)](http://www.jianshu.com/p/72494773aace)
@@ -147,6 +150,7 @@
 
 
 <h5 id='kaiyuangongcheng'>开源工程</h5>[:arrow_up:](#tags)
+
 ##### [SwipeBack  An Android library for activity parallax swipe back](https://github.com/tyzlmjj/SwipeBack)
 ##### [从零创建项目实践](http://abner-nimengbo.cn/2016/06/15/AndroidProjectFromZero/?sukey=3997c0719f1515201d8c8b6b350919b778d9985b501be1e77348064bd4ac3f4de451a02a523654f8ea449e14c6a2e8b6)
 ##### [github项目解析（五）-->android日志框架](http://blog.csdn.net/qq_23547831/article/details/51707796)
@@ -186,6 +190,7 @@
 ##### [MVP架构实现的Github客户端(3-功能实现)](http://www.jianshu.com/p/a1d8add4fb29)
 
 <h5 id='quanxian'>权限</h5>[:arrow_up:](#tags)
+
 ##### [突破小米悬浮窗权限控制--不需要权限的悬浮窗](http://blog.csdn.net/xyq046463/article/details/51840586)
 ##### [深入浅出Android权限（一）](http://imxie.cc/2016/02/26/%E3%80%90%E8%AF%91%E3%80%91%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAAndroid%E6%9D%83%E9%99%90%EF%BC%88%E4%B8%80%EF%BC%89/)
 ##### [深入浅出Android权限（二）](http://imxie.cc/2016/02/29/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAAndroid%E6%9D%83%E9%99%90%EF%BC%88%E4%BA%8C%EF%BC%89/)
