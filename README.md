@@ -6,6 +6,31 @@
 ##### [上一版README（未排序）](https://github.com/ZQiang94/Andriod-collect-blogs/blob/master/README_old.md)
 
 <h2 id='tags'>Tags</h2>
+
+[Android](#android)&emsp;&emsp;
+[Java](#java)&emsp;&emsp;
+[Kotlin](#kotlin)&emsp;&emsp;
+[设计模式](#shejimoshi)&emsp;&emsp;
+[Android\Android Studio 相关](#android-studio)&emsp;&emsp;
+[数据库](#sql)&emsp;&emsp;
+[算法](#suanfa)&emsp;&emsp;
+[Git](#git)&emsp;&emsp;
+[GitHub](#github)&emsp;&emsp;
+[Android\View&UI 相关](#view-ui)&emsp;&emsp;
+[计算机基础](#computer-basis)&emsp;&emsp;
+[MVP](#mvp)&emsp;&emsp;
+[开源项目](#kaiyuanxiangmu)&emsp;&emsp;
+[Linux](#linux)&emsp;&emsp;
+[Spring](#spring)&emsp;&emsp;
+[效率工具](#xiaolv)&emsp;&emsp;
+[MVC](#mvc)&emsp;&emsp;
+[开源库](#kuangjia)&emsp;&emsp;
+[Android\Material Design 相关](#material-design)&emsp;&emsp;
+[技术漫谈](#mantan)&emsp;&emsp;
+[面试题](#mianshi)&emsp;&emsp;
+[Appium](#appium)&emsp;&emsp;
+[其他收集类GitHub地址](#qita)&emsp;&emsp;
+
 [学习笔记](#xuexibiji)&emsp;&emsp;
 [开源工程](#kaiyuangongcheng)&emsp;&emsp;
 [权限](#quanxian)&emsp;&emsp;
