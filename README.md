@@ -1,10 +1,11 @@
 [![Codewake](https://www.codewake.com/badges/codewake.svg)](https://www.codewake.com/p/andriod-collect-blogs-7e3b78bf-5c10-4805-9111-a0969eccaac8)
 [![Codewake](https://www.codewake.com/badges/codewake2.svg)](https://www.codewake.com/p/andriod-collect-blogs-7e3b78bf-5c10-4805-9111-a0969eccaac8)
-###阅读提示：点击下文中:arrow_up:返回到顶部
-###有分类不合理的地方请提Issues。欢迎欢迎~
-###:red_circle:每天不定时更新~
-#####[上一版README（未排序）](https://github.com/ZQiang94/Andriod-collect-blogs/blob/master/README_old.md)
-<h3 id='tags'>Tags</h3>
+### 阅读提示：点击下文中:arrow_up:返回到顶部
+### 有分类不合理的地方请提Issues。欢迎欢迎~
+### :red_circle:每天不定时更新~
+##### [上一版README（未排序）](https://github.com/ZQiang94/Andriod-collect-blogs/blob/master/README_old.md)
+
+<h2 id='tags'>Tags</h2>
 [学习笔记](#xuexibiji)&emsp;&emsp;
 [开源工程](#kaiyuangongcheng)&emsp;&emsp;
 [权限](#quanxian)&emsp;&emsp;
@@ -123,8 +124,6 @@
 [Span](#span)&emsp;&emsp;
 
 
-
-
 <h5 id='xuexibiji'>学习笔记</h5>[:arrow_up:](#tags)
 ##### [提升Android开发效率的最佳实践](https://segmentfault.com/a/1190000006189695)
 ##### [Android开发最佳实践](http://mafei.me/2016/08/06/%E8%AF%91%E6%96%87-Android%E5%BC%80%E5%8F%91%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/)
@@ -146,7 +145,8 @@
 ##### [Android App 开发技术图谱](http://www.jianshu.com/p/39c63eff3c36)
 
 
-<h5 id='kaiyuangongcheng'>开源工程</h5>[:arrow_up:](#tags)
+<h5 id='kaiyuangongcheng'>开源工程</h5>
+[:arrow_up:](#tags)
 ##### [SwipeBack  An Android library for activity parallax swipe back](https://github.com/tyzlmjj/SwipeBack)
 ##### [从零创建项目实践](http://abner-nimengbo.cn/2016/06/15/AndroidProjectFromZero/?sukey=3997c0719f1515201d8c8b6b350919b778d9985b501be1e77348064bd4ac3f4de451a02a523654f8ea449e14c6a2e8b6)
 ##### [github项目解析（五）-->android日志框架](http://blog.csdn.net/qq_23547831/article/details/51707796)
