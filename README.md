@@ -127,9 +127,7 @@
 
 
 
-<h5 id='xuexibiji'>学习笔记</h5>
-
-[:arrow_up:](#tags)
+<h5 id='xuexibiji'>学习笔记</h5>  [:arrow_up:](#tags) 
 
 ##### [提升Android开发效率的最佳实践](https://segmentfault.com/a/1190000006189695)
 ##### [Android开发最佳实践](http://mafei.me/2016/08/06/%E8%AF%91%E6%96%87-Android%E5%BC%80%E5%8F%91%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/)
