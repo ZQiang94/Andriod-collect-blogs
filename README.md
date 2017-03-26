@@ -128,7 +128,6 @@
 
 
 <h5 id='xuexibiji'>学习笔记</h5>
-
 [:arrow_up:](#tags)
 
 ##### [提升Android开发效率的最佳实践](https://segmentfault.com/a/1190000006189695)
@@ -765,8 +764,8 @@
 [:arrow_up:](#tags)
 ##### [安卓面试题 5 – 关于内存泄漏](http://www.iwfu.me/2016/08/02/%E5%AE%89%E5%8D%93%E9%9D%A2%E8%AF%95%E9%A2%98-5-%E5%85%B3%E4%BA%8E%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F/)
 ##### [Android内存分析命令](http://gityuan.com/2016/01/02/memory-analysis-command/)
-[Android中常见的内存泄漏](http://www.jianshu.com/p/130d3b22a386)
-#####[使用新版Android Studio检测内存泄露和性能](http://www.jianshu.com/p/216b03c22bb8)
+##### [Android中常见的内存泄漏](http://www.jianshu.com/p/130d3b22a386)
+##### [使用新版Android Studio检测内存泄露和性能](http://www.jianshu.com/p/216b03c22bb8)
 ##### [［Android进阶］Java、Android 内存泄漏总结](http://blog.csdn.net/codeemperor/article/details/51514448)
 ##### [ Android内存泄漏解决方案(OOM)](http://blog.csdn.net/imuhao/article/details/51694144)
 ##### [Android内存泄漏检测利器：LeakCanary](http://droidyue.com/blog/2016/03/28/android-leakcanary/)
