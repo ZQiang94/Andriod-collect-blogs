@@ -756,7 +756,7 @@
 [:arrow_up:](#tags)
 ##### [android MVVM开发模式](https://github.com/luxiaoming/MVVMDemo)
 ##### [MVVM模式介绍](https://github.com/xitu/gold-miner/blob/master/TODO%2Fapproaching-android-with-mvvm.md)
-##### [android MVVM开发模式（三）](http://mp.weixin.qq.com/s?__biz=MzI1MjMyOTU2Ng==&mid=2247483902&idx=1&sn=a1ed6337a63edb961576a1685538355e&scene=0#wechat_redirectandroid MVVM开发模式（三）)
+##### [android MVVM开发模式（三）](http://mp.weixin.qq.com/s?__biz=MzI1MjMyOTU2Ng==&mid=2247483902&idx=1&sn=a1ed6337a63edb961576a1685538355e&scene=0#wechat_redirect)
 
 
 
@@ -1166,83 +1166,129 @@
 ##### [ Android源码解析之（十二）-->系统启动并解析Manifest的流程](http://blog.csdn.net/qq_23547831/article/details/51203482)
 
 
-<h5 id='qianming'>签名</h5> [:arrow_up:](#tags) 
+<h5 id='qianming'>签名</h5>
+
+[:arrow_up:](#tags)
 ##### [Android签名相关知识整理](http://droidyue.com/blog/2016/03/06/summary-of-android-signing/)
 ##### [Android 自动构建-签名信息及文件拷贝](http://www.jianshu.com/p/7fae3b8600b2)
 
-<h5 id='tupianyasuo'>图片压缩</h5> [:arrow_up:](#tags) 
+<h5 id='tupianyasuo'>图片压缩</h5>
+
+[:arrow_up:](#tags)
 ##### [Google I/O 2016 笔记之图像压缩](http://hlong.xyz/2016/07/11/Google%20IO%202016%20%E7%AC%94%E8%AE%B0%E4%B9%8B%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9/)
 
-<h5 id='xiangyingshi'>响应式</h5> [:arrow_up:](#tags) 
+<h5 id='xiangyingshi'>响应式</h5>
+
+[:arrow_up:](#tags)
 ##### [教你写响应式框架（一）](http://blog.csdn.net/dd864140130/article/details/50877063)
 
-<h5 id='zhuomian'>桌面</h5> [:arrow_up:](#tags) 
+<h5 id='zhuomian'>桌面</h5>
+
+[:arrow_up:](#tags)
 ##### [Android创建桌面快捷方式](http://blog.csdn.net/bjp000111/article/details/51363981)
 
-<h5 id='xuliehua'>序列化</h5> [:arrow_up:](#tags) 
+<h5 id='xuliehua'>序列化</h5>
+
+[:arrow_up:](#tags)
 ##### [老司机开车带你体验Parcelable到底有多快](https://dreamerhome.github.io/2016/07/22/parcelable/)
 
 
-<h5 id='constraintlayout'>ConstraintLayout</h5> [:arrow_up:](#tags) 
+<h5 id='constraintlayout'>ConstraintLayout</h5>
+
+[:arrow_up:](#tags)
 ##### [Google I/O 2016 笔记之Layout新世界-ConstraintLayout](http://hlong.xyz/2016/06/21/Google%20IO%202016%20%E7%AC%94%E8%AE%B0%E4%B9%8BLayout%E6%96%B0%E4%B8%96%E7%95%8C-ConstraintLayout/)
 ##### [ConstraintLayout约束布局的概念与使用](http://www.jianshu.com/p/32a0a6e0a98a)
 
-<h5 id='flux'>Flux</h5> [:arrow_up:](#tags) 
+<h5 id='flux'>Flux</h5>
+
+[:arrow_up:](#tags)
 ##### [用flux搭建实用性非常强的Android开发框架](http://www.jianshu.com/p/4b755df66a97)
 
-<h5 id='uml'>UML</h5> [:arrow_up:](#tags) 
+<h5 id='uml'>UML</h5>
+
+[:arrow_up:](#tags)
 ##### [UML类图实例](http://blog.csdn.net/erlian1992/article/details/52044410)
 
-<h5 id='daili'>APP唤醒代理</h5> [:arrow_up:](#tags) 
+<h5 id='daili'>APP唤醒代理</h5>
+
+[:arrow_up:](#tags)
 ##### [Android 实现类似IOS App唤醒的代理方法](http://blog.csdn.net/qxs965266509/article/details/51814229)
 
 
-<h5 id='jianrong'>兼容包新控件</h5> [:arrow_up:](#tags) 
+<h5 id='jianrong'>兼容包新控件</h5>
+
+[:arrow_up:](#tags)
 ##### [一个Demo学会用Android兼容包新控件](http://sunjiajia.com/2015/07/02/android-new-widgets-demo/)
 
-<h5 id='ditu'>地图</h5> [:arrow_up:](#tags) 
+<h5 id='ditu'>地图</h5>
+
+[:arrow_up:](#tags)
 ##### [ViewPager 嵌套百度地图事件冲突的解决方法](http://www.jianshu.com/p/38b3235a7ff1)
 
 
-<h5 id='guanggao'>广告</h5> [:arrow_up:](#tags) 
+<h5 id='guanggao'>广告</h5>
+
+[:arrow_up:](#tags)
 ##### [在广告的间隔中进行数据加载](http://www.jianshu.com/p/ce870748aae2)
 ##### [微信上最近很火很炫的广告是怎么实现的](http://www.chaisong.xyz/2016/08/07/%E5%BE%AE%E4%BF%A1%E4%B8%8A%E6%9C%80%E8%BF%91%E5%BE%88%E7%81%AB%E5%BE%88%E7%82%AB%E7%9A%84%E5%B9%BF%E5%91%8A%E6%98%AF%E6%80%8E%E4%B9%88%E5%AE%9E%E7%8E%B0%E7%9A%84/)
 
-<h5 id='kaiyuan'>开源</h5> [:arrow_up:](#tags) 
+<h5 id='kaiyuan'>开源</h5>
+
+[:arrow_up:](#tags)
 ##### [从零到一发布Android开源库](http://blog.chengdazhi.com/index.php/217)
 
 
-<h5 id='shoushi'>手势</h5> [:arrow_up:](#tags) 
+<h5 id='shoushi'>手势</h5>
+
+[:arrow_up:](#tags)
 ##### [View的手势分发](http://www.jianshu.com/p/9ceb49e7d5e0)
 ##### [5种手势工具类](http://www.jianshu.com/p/5aeaff6f92a7)
 
-<h5 id='matrix'>Matrix</h5> [:arrow_up:](#tags) 
+<h5 id='matrix'>Matrix</h5>
+
+[:arrow_up:](#tags)
 ##### [深入理解 Android 中的 Matrix](http://www.jianshu.com/p/6aa6080373ab)
 ##### [Matrix原理](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B09%5DMatrix_Basic.md)
 
-<h5 id='bianma'>编码</h5> [:arrow_up:](#tags) 
+<h5 id='bianma'>编码</h5>
+
+[:arrow_up:](#tags)
 ##### [utf-8和Unicode的区别](http://www.jianshu.com/p/36d20de2a1ee)
 
-<h5 id='tupianchuli'>图片处理</h5> [:arrow_up:](#tags) 
+<h5 id='tupianchuli'>图片处理</h5>
+
+[:arrow_up:](#tags)
 ##### [ Android 在图片的指定位置添加标记](http://blog.csdn.net/zuiwuyuan/article/details/52105176)
 ##### [拉升App颜值－android优雅酷炫的图片处理](http://www.jianshu.com/p/73169f1ffad5)
 ##### [还在羡慕微信／微博的图片处理?－android酷炫图片处理(下)](http://www.jianshu.com/p/2720ad8d74da)
 
-<h5 id='shantui'>闪退</h5> [:arrow_up:](#tags) 
+<h5 id='shantui'>闪退</h5>
+
+[:arrow_up:](#tags)
 ##### [关于Android 启动连续闪退保护方案的思考](http://mp.weixin.qq.com/s?__biz=MzAwMTYwNzE2Mg==&mid=2651036636&idx=1&sn=d504ba2edf70d3b7875c14e83769d07c#rd)
 
-<h5 id='greendao'>GreenDao</h5> [:arrow_up:](#tags) 
+<h5 id='greendao'>GreenDao</h5>
+
+[:arrow_up:](#tags)
 ##### [greenDAO数据库升级](http://www.jianshu.com/p/e1b3ad06b8e6)
 
-<h5 id='tuisong'>推送</h5> [:arrow_up:](#tags) 
+<h5 id='tuisong'>推送</h5>
+
+[:arrow_up:](#tags)
 ##### [Android 端外推送到底有多烦？](http://gold.xitu.io/post/57a19c012e958a0066715d0c)
 
-<h5 id='xiaolvgongju'>效率工具</h5> [:arrow_up:](#tags) 
+<h5 id='xiaolvgongju'>效率工具</h5>
+
+[:arrow_up:](#tags)
 ##### [有了这10款逆天级效率工具，每天提前下班2小时!#DEMO8年度产品盘点#](http://www.jianshu.com/p/a3312f1c7068)
 
-<h5 id='rom'>ROM</h5> [:arrow_up:](#tags) 
+<h5 id='rom'>ROM</h5>
+
+[:arrow_up:](#tags)
 ##### [Android ROM 开发技能图谱](http://www.jianshu.com/p/0a4a33e63338)
 
-<h5 id='span'>Span</h5> [:arrow_up:](#tags) 
+<h5 id='span'>Span</h5>
+
+[:arrow_up:](#tags)
 ##### [Android Span 进阶](http://blog.csdn.net/u012422440/article/details/52155924)
 ##### [Android Span 架构介绍](http://blog.csdn.net/u012422440/article/details/52133037)
