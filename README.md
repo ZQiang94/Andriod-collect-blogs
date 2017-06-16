@@ -548,7 +548,7 @@
 
 [:arrow_up:](#tags)
 ##### [求职向 15+优质实用的个人简历模板](https://xituqu.com/288.html)
-##### [安卓面试题4 – 关于Handler机制](http://www.iwfu.me/2016/07/30/%E5%AE%89%E5%8D%93%E9%9D%A2%E8%AF%95%E9%A2%984-%E5%85%B3%E4%BA%8Ehandler%E6%9C%BA%E5%88%B6/)
+##### [安卓面试题4 – 关于Handler机制](http://www.iwfu.me/2016/07/30/%E5%AE%89%E5%8D%93%E9%9D%A2%E8%AF%95%E9%A2%984-%E5%85%B3%E4%BA%8Ehandler%E6%9C%BA%E5%88%B6/)---已失效
 ##### [《Android 开发工程师面试指南》](http://www.diycode.cc/wiki/androidinterview)
 ##### [让 BAT 的 Offer 不再难拿](http://www.jianshu.com/p/ee15c1cf9c16#)
 ##### [2016新浪微博Android面试题](http://yuweiguocn.github.io/2016/04/13/interview-2016-sina-weibo/)
