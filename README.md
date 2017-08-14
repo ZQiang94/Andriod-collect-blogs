@@ -131,6 +131,7 @@
 
 [:arrow_up:](#tags)
 
+##### [花了 6 个月整理了 100 篇 Android 干货文章](https://juejin.im/post/598d1a0d6fb9a03c350a64c8)
 ##### [提升Android开发效率的最佳实践](https://segmentfault.com/a/1190000006189695)
 ##### [Android开发最佳实践](http://mafei.me/2016/08/06/%E8%AF%91%E6%96%87-Android%E5%BC%80%E5%8F%91%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/)
 ##### [Android开发人员不得不收集的代码(不断更新)](http://www.jianshu.com/p/72494773aace)
@@ -547,6 +548,7 @@
 <h5 id='mianshi'>面试</h5>
 
 [:arrow_up:](#tags)
+##### [Android拿高薪面试题必看](https://juejin.im/post/598f00da51882548630c0eab)
 ##### [求职向 15+优质实用的个人简历模板](https://xituqu.com/288.html)
 ##### [安卓面试题4 – 关于Handler机制](http://www.iwfu.me/2016/07/30/%E5%AE%89%E5%8D%93%E9%9D%A2%E8%AF%95%E9%A2%984-%E5%85%B3%E4%BA%8Ehandler%E6%9C%BA%E5%88%B6/)---已失效
 ##### [《Android 开发工程师面试指南》](http://www.diycode.cc/wiki/androidinterview)
